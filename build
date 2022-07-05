@@ -1,0 +1,19 @@
+#!/bin/bash
+
+IMAGE_NAME=$1
+
+docker system prune
+
+if [ -z "${IMAGE_NAME}" ];then
+    echo "Repository name not set"
+    exit 1
+fi
+
+if [ ! -z "(docker images | grep $IMAGE_NAME)" ];then
+        echo "Remove previous version"
+        docker rmi $IMAGE_NAME
+fi
+
+#docker build --build-arg APP_NAME=registar  --build-arg CONFIG_DIR=data --build-arg APP_DIR=/app -t $IMAGE_NAME .
+docker build -t $IMAGE_NAME .
+#docker image prune --filter label=stage=builder -f

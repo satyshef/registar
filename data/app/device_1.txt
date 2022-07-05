@@ -1,0 +1,1882 @@
+Asus PadFone Infinity:Android 4.1 "Jelly Bean" 
+Asus PadFone:Android 4.0 "Ice Cream Sandwich" 
+Asus PadFone 2:Android 4.0 "Ice Cream Sandwich" 
+Asus PadFone Infinity:Android 4.1 "Jelly Bean" 
+Asus PadFone Infinity 2:Android 4.1 "Jelly Bean" 
+Asus PadFone mini:Android 4.1 "Jelly Bean" 
+Asus PadFone E:Android 4.1 "Jelly Bean" 
+Asus PadFone Infinity Lite:Android 4.1 "Jelly Bean" 
+Asus ZenFone 5 (2014):Android 4.1 "Jelly Bean" 
+Asus ZenFone 4 (2014):Android 4.1 "Jelly Bean" 
+Asus ZenFone 6 (2014):Android 4.1 "Jelly Bean" 
+Asus PadFone S/X:Android 4.4 "KitKat" 
+Asus ZenFone 4.5 (2014):Android 4.4 "KitKat" 
+Asus ZenFone 5 (2014):Android 4.4 "KitKat" 
+Asus PadFone X mini:Android 4.4 "KitKat" 
+Asus Pegasus (X002):Android 4.4 "KitKat" 
+Asus ZenFone 5 (2015):Android 4.1 "Jelly Bean" 
+Asus ZenFone 2:Android 5.0 "Lollipop" 
+Asus ZenFone 3:Android 6.0 "Marshmallow" 
+Asus ZenFone 4:Android 7.0 "Nougat" 
+Asus ZenFone Max Plus M1:Android 7.0 "Nougat" 
+Asus ZenFone Max M1:Android 8.0 "Oreo" 
+Asus ZenFone Max Pro M1:Android 8.0 "Oreo" 
+Asus ZenFone 5:Android 8.0 "Oreo" 
+Asus ZenFone Live L1:Android 8.0 "Oreo" 
+Asus ROG Phone:Android 8.0 "Oreo" 
+Asus ZenFone Lite L1:Android 8.0 "Oreo" 
+Asus ZenFone Max M2:Android 9.0 "Pie" 
+Asus ZenFone Max Pro M2:Android 9.0 "Pie" 
+Asus ZenFone Max Shot:Android 8.0 "Oreo" 
+Asus ZenFone Max Plus M2:Android 8.0 "Oreo" 
+Asus ZenFone Live L2:Android 8.0 "Oreo" 
+Asus ZenFone 6:Android 9.0 "Pie" 
+Asus ROG Phone II:Android 9.0 "Pie" 
+Asus ROG Phone 3:Android 10 
+Asus ZenFone 7:Android 10 
+BlackBerry Priv:Android 5.0 "Lollipop" 
+BlackBerry DTEK50:Android 6.0 "Marshmallow" 
+BlackBerry DTEK60:Android 6.0 "Marshmallow" 
+BlackBerry Aurora:Android 7.0 "Nougat" 
+BlackBerry KeyOne:Android 7.0 "Nougat" 
+BlackBerry Motion:Android 7.0 "Nougat" 
+BlackBerry Key2:Android 8.0 "Oreo" 
+BlackBerry Evolve/X:Android 8.0 "Oreo" 
+BlackBerry Key2 LE:Android 8.0 "Oreo" 
+HTC Dream:Android 1.0 
+HTC Magic:Android 1.6 "Donut" 
+HTC Hero:Android 1.5 "Cupcake" 
+HTC Tattoo:Android 1.6 "Donut" 
+HTC Desire:Android 2.0 "Eclair" 
+HTC Legend:Android 2.0 "Eclair" 
+HTC Droid Incredible:Android 2.0 "Eclair" 
+HTC Wildfire:Android 2.0 "Eclair" 
+HTC Aria:Android 2.0 "Eclair" 
+HTC Evo 4G:Android 2.0 "Eclair" 
+HTC Desire HD:Android 2.2 "Froyo" 
+HTC Desire Z:Android 2.2 "Froyo" 
+HTC Evo Shift 4G:Android 2.2 "Froyo" 
+HTC Inspire 4G:Android 2.2 "Froyo" 
+HTC Incredible S:Android 2.2 "Froyo" 
+HTC ThunderBolt:Android 2.2 "Froyo" 
+HTC Desire S:Android 2.3 "Gingerbread" 
+HTC Sensation:Android 2.3 "Gingerbread" 
+HTC Wildfire S:Android 2.3 "Gingerbread" 
+HTC ChaCha:Android 2.3 "Gingerbread" 
+HTC Salsa:Android 2.3 "Gingerbread" 
+HTC Evo 3D:Android 2.3 "Gingerbread" 
+HTC Amaze 4G:Android 2.3 "Gingerbread" 
+HTC Explorer:Android 2.3 "Gingerbread" 
+HTC Raider 4G:Android 2.3 "Gingerbread" 
+HTC Evo Design 4G:Android 2.3 "Gingerbread" 
+HTC Rezound:Android 2.3 "Gingerbread" 
+HTC One S:Android 4.0 "Ice Cream Sandwich" 
+HTC One V:Android 4.0 "Ice Cream Sandwich" 
+HTC One X:Android 4.0 "Ice Cream Sandwich" 
+HTC Evo 4G LTE:Android 4.0 "Ice Cream Sandwich" 
+HTC Droid Incredible 4G LTE:Android 4.0 "Ice Cream Sandwich" 
+HTC Desire X:Android 4.0 "Ice Cream Sandwich" 
+HTC Butterfly:Android 4.1 "Jelly Bean" 
+HTC One (M7):Android 4.1 "Jelly Bean" 
+HTC One Mini:Android 4.1 "Jelly Bean" 
+HTC One Max:Android 4.1 "Jelly Bean" 
+HTC One (M8):Android 4.4 "KitKat" 
+HTC One Mini 2:Android 4.4 "KitKat" 
+HTC Desire Eye:Android 4.4 "KitKat" 
+HTC Desire 620:Android 4.4 "KitKat" 
+HTC One M9:Android 5.0 "Lollipop" 
+HTC 10:Android 6.0 "Marshmallow" 
+HTC U Ultra:Android 7.0 "Nougat" 
+HTC U11:Android 7.0 "Nougat" 
+HTC U11+/11 Life:Android 8.0 "Oreo" 
+HTC U11 EYEs:Android 8.0 "Oreo" 
+HTC U12+:Android 8.0 "Oreo" 
+HTC U12 life:Android 8.0 "Oreo" 
+HTC Desire 12/12+:Android 8.0 "Oreo" 
+HTC Exodus 1:Android 8.0 "Oreo" 
+HTC Desire 12s:Android 8.0 "Oreo" 
+HTC Desire 19+:Android 9.0 "Pie" 
+HTC U19e:Android 9.0 "Pie" 
+HTC Wildfire X:Android 9.0 "Pie" 
+HTC Exodus 1s:Android 8.1 "Oreo" 
+HTC Desire 19s:Android 9.0 "Pie" 
+HTC Wildfire R70:Android 9.0 "Pie" 
+HTC Desire 20 Pro:Android 10 
+HTC U20 5G:Android 10 
+HTC Wildfire E2:Android 10 
+Honor U8860:Android 2.3 "Gingerbread" 
+Honor 2:Android 4.0 "Ice Cream Sandwich" 
+Honor 3:Android 4.1 "Jelly Bean" 
+Honor 3C:Android 4.1 "Jelly Bean" 
+Honor 3X:Android 4.4 "KitKat" 
+Honor 3X Pro:Android 4.1 "Jelly Bean" 
+Honor 3C 4G:Android 4.4 "KitKat" 
+Honor 6:Android 4.4 "KitKat" 
+Honor 3C Play:Android 4.1 "Jelly Bean" 
+Honor 4 Play:Android 4.4 "KitKat" 
+Honor Holly:Android 4.4 "KitKat" 
+Honor 4X:Android 4.4 "KitKat" 
+Honor 6 Plus:Android 4.4 "KitKat" 
+Honor 4C:Android 4.4 "KitKat" 
+Honor Bee:Android 4.4 "KitKat" 
+Honor 7:Android 5.0 "Lollipop" 
+Honor 7i:Android 5.0 "Lollipop" 
+Honor 5X:Android 5.0 "Lollipop" 
+Honor Holly 2 Plus:Android 5.0 "Lollipop" 
+Honor 5c:Android 6.0 "Marshmallow" 
+Honor V8:Android 6.0 "Marshmallow" 
+Honor 5A:Android 5.0 "Lollipop" 
+Honor 8:Android 6.0 "Marshmallow" 
+Honor Note 8:Android 6.0 "Marshmallow" 
+Honor Holly 3:Android 6.0 "Marshmallow" 
+Honor 6X:Android 6.0 "Marshmallow" 
+Honor Magic:Android 6.0 "Marshmallow" 
+Honor 8 Pro:Android 7.0 "Nougat" 
+Honor 6A:Android 7.0 "Nougat" 
+Honor 9:Android 7.0 "Nougat" 
+Honor 6C Pro:Android 7.0 "Nougat" 
+Honor 7X:Android 7.0 "Nougat" 
+Honor V10:Android 8.0 "Oreo" 
+Honor 9 Lite:Android 8.0 "Oreo" 
+Honor 7A:Android 8.0 "Oreo" 
+Honor 7C:Android 8.0 "Oreo" 
+Honor 10:Android 8.0 "Oreo" 
+Honor 7S:Android 8.0 "Oreo" 
+Honor 9N:Android 8.0 "Oreo" 
+Honor Play:Android 8.0 "Oreo" 
+Honor Note 10:Android 8.0 "Oreo" 
+Honor 8X/Max:Android 8.0 "Oreo" 
+Honor 8C:Android 8.0 "Oreo" 
+Honor Magic 2/3D:Android 9.0 "Pie" 
+Honor 10 Lite:Android 9.0 "Pie" 
+Honor V20:Android 9.0 "Pie" 
+Honor Play 8A:Android 9.0 "Pie" 
+Honor 8A Pro:Android 9.0 "Pie" 
+Honor 20 lite:Android 9.0 "Pie" 
+Honor 20i:Android 9.0 "Pie" 
+Honor 20:Android 9.0 "Pie" 
+Honor 20 Pro:Android 9.0 "Pie" 
+Honor 9X (China):Android 9.0 "Pie" 
+Honor 9X Pro:Android 9.0 "Pie" 
+Honor Play 3/3e:Android 9.0 "Pie" 
+Honor 20S:Android 9.0 "Pie" 
+Honor 20 lite (China):Android 9.0 "Pie" 
+Honor 9X:Android 9.0 "Pie" 
+Honor V30/30 Pro:Android 10 
+Honor 8A Prime:Android 10 
+Honor Play 9A:Android 10 
+Honor 30S:Android 10 
+Honor Play 4T/4T Pro:Android 10 
+Honor 8A 2020:Android 10 
+Honor 20e:Android 10 
+Honor 30/30 Pro/30 Pro+:Android 10 
+Honor 9X Lite:Android 10 
+Honor 9C/9S/9A:Android 10 
+Honor X10:Android 10 
+Honor 8S 2020:Android 10 
+Honor Play4/4 Pro:Android 10 
+Honor 30 Lite:Android 10 
+Honor X10 Max:Android 10 
+Honor 30i:Android 10 
+Huawei Ascend P1:Android 4.0 "Ice Cream Sandwich" 
+Huawei Ascend Mate:Android 4.1 "Jelly Bean" 
+Huawei Ascend P2:Android 4.1 "Jelly Bean" 
+Huawei Ascend P6:Android 4.1 "Jelly Bean" 
+Huawei Ascend Mate 2 4G:Android 4.1 "Jelly Bean" 
+Huawei Ascend P7:Android 4.4 "KitKat" 
+Huawei Ascend Mate 7:Android 4.4 "KitKat" 
+Huawei P8:Android 4.4 "KitKat" 
+Huawei Mate S:Android 5.0 "Lollipop" 
+Huawei Mate 8:Android 6.0 "Marshmallow" 
+Huawei P9:Android 6.0 "Marshmallow" 
+Huawei Mate 9:Android 7.0 "Nougat" 
+Huawei P10:Android 7.0 "Nougat" 
+Huawei Mate 10:Android 8.0 "Oreo" 
+Huawei P20:Android 8.0 "Oreo" 
+Huawei Mate 20:Android 9.0 "Pie" 
+Huawei P30:Android 9.0 "Pie" 
+Huawei Mate 30:Android 10 
+Huawei P40:Android 10 
+Lenovo Vibe Z:Android 4.1 "Jelly Bean" 
+Lenovo A526:Android 4.1 "Jelly Bean" 
+Lenovo Vibe Z2 Pro:Android 4.4 "KitKat" 
+Lenovo Vibe Z2:Android 4.4 "KitKat" 
+ZUK Z1:Android 5.0 "Lollipop" 
+Lenovo Vibe P1:Android 5.0 "Lollipop" 
+Lenovo Vibe K4 Note:Android 5.0 "Lollipop" 
+Lenovo K5 Note:Android 5.0 "Lollipop" 
+Lenovo Vibe P1 Turbo:Android 5.0 "Lollipop" 
+Lenovo Vibe K5/Plus:Android 5.0 "Lollipop" 
+ZUK Z2:Android 6.0 "Marshmallow" 
+Lenovo Phab 2/Plus/Pro:Android 6.0 "Marshmallow" 
+Lenovo K6/Power/Note:Android 6.0 "Marshmallow" 
+Lenovo P2:Android 6.0 "Marshmallow" 
+Lenovo Z2 Plus:Android 6.0 "Marshmallow" 
+Lenovo Legion Pro/Duel:Android 10 
+LG GW620:Android 1.5 "Cupcake" 
+LG Optimus Q:Android 2.0 "Eclair" 
+LG Optimus:Android 1.6 "Donut" 
+LG Optimus One:Android 2.2 "Froyo" 
+LG Optimus Chic:Android 2.2 "Froyo" 
+LG Optimus 2X:Android 2.2 "Froyo" 
+LG Optimus Black:Android 2.2 "Froyo" 
+LG Optimus 3D:Android 2.2 "Froyo" 
+LG Optimus Slider:Android 2.3 "Gingerbread" 
+LG Optimus LTE (LU6200):Android 2.3 "Gingerbread" 
+LG Optimus 4X HD:Android 4.0 "Ice Cream Sandwich" 
+LG Optimus LTE (SU640):Android 2.3 "Gingerbread" 
+LG Optimus L9:Android 4.0 "Ice Cream Sandwich" 
+LG Optimus Vu:Android 4.0 "Ice Cream Sandwich" 
+LG Optimus G:Android 4.0 "Ice Cream Sandwich" 
+LG G2:Android 4.1 "Jelly Bean" 
+LG G Flex:Android 4.1 "Jelly Bean" 
+LG G Pro Lite:Android 4.1 "Jelly Bean" 
+LG Gx:Android 4.1 "Jelly Bean" 
+LG G2 Mini:Android 4.4 "KitKat" 
+LG G Pro 2:Android 4.4 "KitKat" 
+LG G3:Android 4.4 "KitKat" 
+LG G3 Stylus:Android 4.4 "KitKat" 
+LG G Flex 2:Android 5.0 "Lollipop" 
+LG G4:Android 5.0 "Lollipop" 
+LG V10:Android 5.0 "Lollipop" 
+LG K10 (2016):Android 5.0 "Lollipop" 
+LG G5:Android 6.0 "Marshmallow" 
+LG V20:Android 7.0 "Nougat" 
+LG K10 (2017):Android 7.0 "Nougat" 
+LG G6:Android 7.0 "Nougat" 
+LG V30:Android 7.0 "Nougat" 
+LG G7 ThinQ:Android 8.0 "Oreo" 
+LG V35 ThinQ:Android 8.0 "Oreo" 
+LG K10 (2018):Android 7.0 "Nougat" 
+LG V40 ThinQ:Android 8.0 "Oreo" 
+LG G8 ThinQ:Android 9.0 "Pie" 
+LG V50 ThinQ:Android 9.0 "Pie" 
+LG V60 ThinQ:Android 10 
+LG Velvet:Android 10 
+LG Wing:Android 10 
+Meizu M9:Android 2.2 "Froyo" 
+Meizu MX:Android 2.3 "Gingerbread" 
+Meizu MX 4-core:Android 4.0 "Ice Cream Sandwich" 
+Meizu MX2:Android 4.1 "Jelly Bean" 
+Meizu MX3:Android 4.1 "Jelly Bean" 
+Meizu MX4:Android 4.4 "KitKat" 
+Meizu MX4 Pro:Android 4.4 "KitKat" 
+Meizu M1/1 Note:Android 4.4 "KitKat" 
+Meizu M2 Note:Android 5.0 "Lollipop" 
+Meizu MX5:Android 5.0 "Lollipop" 
+Meizu M2:Android 5.0 "Lollipop" 
+Meizu PRO 5:Android 5.0 "Lollipop" 
+Meizu M1 Metal:Android 5.0 "Lollipop" 
+Meizu MX5e:Android 6.0 "Marshmallow" 
+Meizu M3 Note:Android 5.0 "Lollipop" 
+Meizu PRO 6:Android 6.0 "Marshmallow" 
+Meizu M3:Android 5.0 "Lollipop" 
+Meizu M3s:Android 5.0 "Lollipop" 
+Meizu MX6:Android 6.0 "Marshmallow" 
+Meizu M3E:Android 5.0 "Lollipop" 
+Meizu U10/20:Android 6.0 "Marshmallow" 
+Meizu M3 Max:Android 6.0 "Marshmallow" 
+Meizu M5:Android 6.0 "Marshmallow" 
+Meizu PRO 6s:Android 6.0 "Marshmallow" 
+Meizu M3x:Android 6.0 "Marshmallow" 
+Meizu PRO 6 Plus:Android 6.0 "Marshmallow" 
+Meizu M5 Note:Android 6.0 "Marshmallow" 
+Meizu M5s:Android 6.0 "Marshmallow" 
+Meizu E2:Android 7.0 "Nougat" 
+Meizu M5c:Android 6.0 "Marshmallow" 
+Meizu PRO 7/Plus:Android 7.0 "Nougat" 
+Meizu M6 Note:Android 7.0 "Nougat" 
+Meizu M6:Android 7.0 "Nougat" 
+Meizu M6s:Android 7.0 "Nougat" 
+Meizu E3:Android 7.0 "Nougat" 
+Meizu 15/Pro/Lite:Android 7.0 "Nougat" 
+Meizu M8c:Android 7.0 "Nougat" 
+Meizu M6T:Android 7.0 "Nougat" 
+Meizu 16th/Plus:Android 8.0 "Oreo" 
+Meizu 16X:Android 8.0 "Oreo" 
+Meizu V8/Pro:Android 8.0 "Oreo" 
+Meizu X8:Android 8.0 "Oreo" 
+Meizu Note 8:Android 8.0 "Oreo" 
+Meizu C9/Pro:Android 8.0 "Oreo" 
+Meizu Note 9:Android 9.0 "Pie" 
+Meizu M10:Android 9.0 "Pie" 
+Meizu 16s:Android 9.0 "Pie" 
+Meizu 16Xs:Android 9.0 "Pie" 
+Meizu 16s Pro:Android 9.0 "Pie" 
+Meizu 16T:Android 9.0 "Pie" 
+Meizu 17/Pro:Android 10 
+Motorola Cliq:Android 1.5 "Cupcake" 
+Motorola Droid:Android 2.0 "Eclair" 
+Motorola Backflip:Android 1.5 "Cupcake" 
+Motorola Flipout:Android 2.0 "Eclair" 
+Motorola Droid X:Android 2.0 "Eclair" 
+Motorola Charm:Android 2.0 "Eclair" 
+Motorola Droid 2:Android 2.2 "Froyo" 
+Motorola Defy:Android 2.0 "Eclair" 
+Motorola Droid Pro:Android 2.2 "Froyo" 
+Motorola Atrix 4G:Android 2.3 "Gingerbread" 
+Motorola Droid 3:Android 2.3 "Gingerbread" 
+Motorola Droid Bionic:Android 2.3 "Gingerbread" 
+Motorola Atrix 2:Android 2.3 "Gingerbread" 
+Motorola Droid Razr:Android 2.3 "Gingerbread" 
+Motorola Droid 4:Android 2.3 "Gingerbread" 
+Motorola Atrix HD:Android 4.0 "Ice Cream Sandwich" 
+Motorola Photon Q:Android 4.0 "Ice Cream Sandwich" 
+Motorola Droid Razr M:Android 4.0 "Ice Cream Sandwich" 
+Motorola Droid Razr HD:Android 4.0 "Ice Cream Sandwich" 
+Motorola Droid Maxx:Android 4.1 "Jelly Bean" 
+Motorola Droid Mini:Android 4.1 "Jelly Bean" 
+Moto X (1st generation):Android 4.1 "Jelly Bean" 
+Moto G (1st generation):Android 4.1 "Jelly Bean" 
+Moto E (1st generation):Android 4.4 "KitKat" 
+Moto G (2nd generation):Android 4.4 "KitKat" 
+Moto X (2nd generation):Android 4.4 "KitKat" 
+Motorola Droid Turbo:Android 4.4 "KitKat" 
+Moto E (2nd generation):Android 5.0 "Lollipop" 
+Moto G (3rd generation):Android 5.0 "Lollipop" 
+Moto X Play:Android 5.0 "Lollipop" 
+Moto X Style:Android 5.0 "Lollipop" 
+Moto G4:Android 6.0 "Marshmallow" 
+Moto E3:Android 6.0 "Marshmallow" 
+Moto Z:Android 6.0 "Marshmallow" 
+Moto Z Play:Android 6.0 "Marshmallow" 
+Moto G5:Android 7.0 "Nougat" 
+Moto C:Android 7.0 "Nougat" 
+Moto E4:Android 7.0 "Nougat" 
+Moto Z2 Play:Android 7.0 "Nougat" 
+Moto Z2 Force:Android 7.0 "Nougat" 
+Moto X4:Android 7.0 "Nougat" 
+Moto E5:Android 8.0 "Oreo" 
+Moto G6:Android 8.0 "Oreo" 
+Moto Z3 Play:Android 8.0 "Oreo" 
+Moto Z3:Android 8.0 "Oreo" 
+Motorola One/One Power:Android 8.0 "Oreo" 
+Moto G7:Android 9.0 "Pie" 
+Motorola One Vision:Android 9.0 "Pie" 
+Moto Z4:Android 9.0 "Pie" 
+Motorola One Zoom:Android 9.0 "Pie" 
+Moto G8 Plus:Android 9.0 "Pie" 
+Motorola One Macro:Android 9.0 "Pie" 
+Motorola One Action:Android 9.0 "Pie" 
+Motorola Razr (2020):Android 9.0 "Pie" 
+Motorola One Hyper:Android 10 
+Moto G8 Power:Android 10 
+Moto G Power/Stylus:Android 10 
+Moto G8:Android 10 
+Moto E6s (2020):Android 9.0 "Pie" 
+Moto G8 Power Lite:Android 9.0 "Pie" 
+Motorola Edge/Edge+:Android 10 
+Moto G Pro:Android 10 
+Moto E (2020):Android 10 
+Moto G Fast:Android 10 
+Motorola One Fusion+:Android 10 
+Motorola One Fusion:Android 10 
+Moto G 5G Plus:Android 10 
+Moto G9 Play:Android 10 
+Moto G9 Plus:Android 10 
+Moto E7 Plus:Android 10 
+Motorola Razr (5G):Android 10 
+Nextbit Robin:Android 5.0 "Lollipop" 
+Nexus One:Android 2.0 "Eclair" 
+Nexus S:Android 2.3 "Gingerbread" 
+Galaxy Nexus:Android 4.0 "Ice Cream Sandwich" 
+Nexus 4:Android 4.1 "Jelly Bean" 
+Nexus 5:Android 4.4 "KitKat" 
+Nexus 6:Android 5.0 "Lollipop" 
+Nexus 5X:Android 6.0 "Marshmallow" 
+Nexus 6P:Android 6.0 "Marshmallow" 
+Nokia X:Android 4.1 "Jelly Bean" 
+Nokia XL:Android 4.1 "Jelly Bean" 
+Nokia X2:Android 4.1 "Jelly Bean" 
+Nokia 6:Android 7.0 "Nougat" 
+Nokia 3:Android 7.0 "Nougat" 
+Nokia 5:Android 7.0 "Nougat" 
+Nokia 7:Android 7.0 "Nougat" 
+Nokia 8:Android 7.0 "Nougat" 
+Nokia 2:Android 7.0 "Nougat" 
+Nokia 7 Plus:Android 8.0 "Oreo" 
+Nokia 1:Android 8.0 "Oreo" 
+Nokia 6.1:Android 8.0 "Oreo" 
+Nokia 8 Sirocco:Android 8.0 "Oreo" 
+Nokia 3.1:Android 8.0 "Oreo" 
+Nokia 5.1 Plus:Android 8.0 "Oreo" 
+Nokia 2.1:Android 8.0 "Oreo" 
+Nokia 5.1:Android 8.0 "Oreo" 
+Nokia 6.1 Plus:Android 8.0 "Oreo" 
+Nokia 3.1 Plus:Android 8.0 "Oreo" 
+Nokia 7.1:Android 8.0 "Oreo" 
+Nokia 8.1:Android 9.0 "Pie" 
+Nokia 9 PureView:Android 9.0 "Pie" 
+Nokia 1 Plus:Android 9.0 "Pie" 
+Nokia 4.2:Android 9.0 "Pie" 
+Nokia 3.2:Android 9.0 "Pie" 
+Nokia 2.2:Android 9.0 "Pie" 
+Nokia 6.2:Android 9.0 "Pie" 
+Nokia 7.2:Android 9.0 "Pie" 
+Nokia 2.3:Android 9.0 "Pie" 
+Nokia C1:Android 9.0 "Pie" 
+Nokia C2:Android 9.0 "Pie" 
+Nokia 1.3:Android 10 
+Nokia 5.3:Android 10 
+Nokia 8.3 5G:Android 10 
+OnePlus One:Android 4.4 "KitKat" 
+OnePlus 2:Android 5.0 "Lollipop" 
+OnePlus X:Android 5.0 "Lollipop" 
+OnePlus 3:Android 6.0 "Marshmallow" 
+OnePlus 3T:Android 6.0 "Marshmallow" 
+OnePlus 5:Android 7.0 "Nougat" 
+OnePlus 5T:Android 7.0 "Nougat" 
+OnePlus 6:Android 8.0 "Oreo" 
+OnePlus 6T:Android 9.0 "Pie" 
+OnePlus 7:Android 9.0 "Pie" 
+OnePlus 7 Pro:Android 9.0 "Pie" 
+OnePlus 7T:Android 10 
+OnePlus 7T Pro:Android 10 
+OnePlus 8:Android 10 
+OnePlus 8 Pro:Android 10 
+OnePlus Nord:Android 10 
+Oppo Find:Android 4.0 "Ice Cream Sandwich" 
+Oppo Find 5:Android 4.1 "Jelly Bean" 
+Oppo N1:Android 4.1 "Jelly Bean" 
+Oppo Find 5 Mini:Android 4.1 "Jelly Bean" 
+Oppo Find 7/7a:Android 4.1 "Jelly Bean" 
+Oppo N1 mini:Android 4.1 "Jelly Bean" 
+Oppo N3:Android 4.4 "KitKat" 
+Oppo R7:Android 4.4 "KitKat" 
+Oppo F1:Android 5.0 "Lollipop" 
+Oppo R11:Android 7.0 "Nougat" 
+Oppo F7:Android 8.0 "Oreo" 
+Oppo R15 Pro:Android 8.0 "Oreo" 
+Oppo Find X:Android 8.0 "Oreo" 
+Oppo F9:Android 8.0 "Oreo" 
+Oppo R17:Android 8.0 "Oreo" 
+Oppo Reno:Android 9.0 "Pie" 
+Oppo Reno2:Android 9.0 "Pie" 
+Oppo A9 (2020):Android 9.0 "Pie" 
+Oppo Find X2/Pro:Android 10 
+Panasonic P100:Android 7.0 "Nougat" 
+Pixel/XL:Android 7.0 "Nougat" 
+Pixel 2/XL:Android 8.0 "Oreo" 
+Pixel 3/XL:Android 9.0 "Pie" 
+Pixel 3a/XL:Android 9.0 "Pie" 
+Pixel 4/XL:Android 10 
+Pixel 4a:Android 10 
+Pixel 4a (5G):Android 11 
+Pixel 5:Android 11 
+Razer Phone:Android 7.0 "Nougat" 
+Razer Phone 2:Android 8.0 "Oreo" 
+Realme 1:Android 8.0 "Oreo" 
+Realme 2:Android 8.0 "Oreo" 
+Realme C1:Android 8.0 "Oreo" 
+Realme 2 Pro:Android 8.0 "Oreo" 
+Realme U1:Android 8.0 "Oreo" 
+Realme 3:Android 9.0 "Pie" 
+Realme C2:Android 9.0 "Pie" 
+Realme 3 Pro:Android 9.0 "Pie" 
+Realme X:Android 9.0 "Pie" 
+Realme 3i:Android 9.0 "Pie" 
+Realme 5:Android 9.0 "Pie" 
+Realme 5 Pro:Android 9.0 "Pie" 
+Realme XT:Android 9.0 "Pie" 
+Realme X2:Android 9.0 "Pie" 
+Realme X2 Pro:Android 9.0 "Pie" 
+Realme 5i:Android 9.0 "Pie" 
+Realme X50:Android 10 
+Realme C3:Android 10 
+Realme X50 Pro:Android 10 
+Realme 6:Android 10 
+Realme 6 Pro:Android 10 
+Realme 6i:Android 10 
+Realme X50 Pro Player:Android 10 
+Realme X3 SuperZoom:Android 10 
+Realme Narzo:Android 10 
+Realme C3i:Android 10 
+Realme X3:Android 10 
+Realme C11:Android 10 
+Realme C15:Android 10 
+Realme V5:Android 10 
+Realme C12:Android 10 
+Redmi 1:Android 4.1 "Jelly Bean" 
+Redmi 1S:Android 4.1 "Jelly Bean" 
+Redmi Note (3G):Android 4.1 "Jelly Bean" 
+Redmi Note 4G:Android 4.1 "Jelly Bean" 
+Redmi Note Prime:Android 4.4 "KitKat" 
+Redmi 2:Android 4.4 "KitKat" 
+Redmi 2A:Android 4.4 "KitKat" 
+Redmi 2 Prime:Android 4.4 "KitKat" 
+Redmi Note 2:Android 5.0 "Lollipop" 
+Redmi 2 Pro:Android 4.4 "KitKat" 
+Redmi Note 3 (MTK):Android 5.0 "Lollipop" 
+Redmi 3:Android 5.0 "Lollipop" 
+Redmi Note 3/Pro:Android 5.0 "Lollipop" 
+Redmi 3 Pro:Android 5.0 "Lollipop" 
+Redmi 3S:Android 5.0 "Lollipop" 
+Redmi 3X:Android 5.0 "Lollipop" 
+Redmi 3S Prime:Android 5.0 "Lollipop" 
+Redmi Pro:Android 7.0 "Nougat" 
+Redmi Note 4 (MTK):Android 6.0 "Marshmallow" 
+Redmi 4/Pro/Prime:Android 6.0 "Marshmallow" 
+Redmi 4A:Android 6.0 "Marshmallow" 
+Redmi Note 4/4X:Android 6.0 "Marshmallow" 
+Redmi 4X:Android 6.0 "Marshmallow" 
+Redmi Note 5A/Prime:Android 7.0 "Nougat" 
+Redmi 5A:Android 7.0 "Nougat" 
+Redmi 5/5 Plus:Android 7.0 "Nougat" 
+Redmi Note 5 Pro:Android 7.0 "Nougat" 
+Redmi Note 5:Android 8.0 "Oreo" 
+Redmi S2/Y2:Android 8.0 "Oreo" 
+Redmi 6/6A/6 Pro:Android 8.0 "Oreo" 
+Redmi Note 6 Pro:Android 8.0 "Oreo" 
+Redmi Note 7:Android 9.0 "Pie" 
+Redmi Go:Android 8.0 "Oreo" 
+Redmi Note 7 Pro:Android 9.0 "Pie" 
+Redmi 7:Android 9.0 "Pie" 
+Redmi Y3:Android 9.0 "Pie" 
+Redmi 7A:Android 9.0 "Pie" 
+Redmi K20/Pro:Android 9.0 "Pie" 
+Redmi Note 8/Pro:Android 9.0 "Pie" 
+Redmi 8A:Android 9.0 "Pie" 
+Redmi 8:Android 9.0 "Pie" 
+Redmi Note 8T:Android 9.0 "Pie" 
+Redmi K30/5G:Android 10 
+Redmi 8A Dual:Android 9.0 "Pie" 
+Redmi Note 9 Pro (India)/Pro Max/9S:Android 10 
+Redmi K30 Pro/Pro Zoom:Android 10 
+Redmi Note 9/Pro (Global):Android 10 
+Redmi 10X/Pro:Android 10 
+Redmi 9:Android 10 
+Redmi 9A:Android 10 
+Redmi 9C:Android 10 
+Redmi 9 Prime:Android 10 
+Redmi K30 Ultra:Android 10 
+Samsung Galaxy:Android 1.5 "Cupcake" 
+Samsung Galaxy S1:Android 2.0 "Eclair" 
+Samsung Galaxy S2:Android 2.3 "Gingerbread" 
+Samsung Galaxy Note:Android 2.3 "Gingerbread" 
+Samsung Galaxy S3:Android 4.0 "Ice Cream Sandwich" 
+Samsung Galaxy Note 2:Android 4.0 "Ice Cream Sandwich" 
+Samsung Galaxy S4:Android 4.1 "Jelly Bean" 
+Samsung Galaxy S4 Zoom:Android 4.1 "Jelly Bean" 
+Samsung Galaxy Note 3:Android 4.1 "Jelly Bean" 
+Samsung Galaxy Note 3 Neo:Android 4.1 "Jelly Bean" 
+Samsung Galaxy S5:Android 4.4 "KitKat" 
+Samsung Galaxy Alpha:Android 4.4 "KitKat" 
+Samsung Galaxy Grand Prime:Android 5.0 "Lollipop" 
+Samsung Galaxy Note 4:Android 4.4 "KitKat" 
+Samsung Galaxy Note Edge:Android 4.4 "KitKat" 
+Samsung Galaxy A5 Duos:Android 4.4 "KitKat" 
+Samsung Galaxy A5:Android 4.4 "KitKat" 
+Samsung Galaxy A3/Duos:Android 4.4 "KitKat" 
+Samsung Galaxy A7/Duos:Android 4.4 "KitKat" 
+Samsung Galaxy S6/Edge:Android 5.0 "Lollipop" 
+Samsung Galaxy A8/Duos:Android 5.0 "Lollipop" 
+Samsung Galaxy Note 5:Android 5.0 "Lollipop" 
+Samsung Galaxy S6 Edge+:Android 5.0 "Lollipop" 
+Samsung Galaxy A3 (2016)/A5 (2016)/A7 (2016):Android 5.0 "Lollipop" 
+Samsung Galaxy A9 (2016):Android 5.0 "Lollipop" 
+Samsung Galaxy S7/Edge:Android 6.0 "Marshmallow" 
+Samsung Galaxy A9 Pro (2016):Android 6.0 "Marshmallow" 
+Samsung Galaxy Note 7:Android 6.0 "Marshmallow" 
+Samsung Galaxy A8 (2016):Android 6.0 "Marshmallow" 
+Samsung Galaxy A3 (2017)/A5 (2017)/A7 (2017):Android 6.0 "Marshmallow" 
+Samsung Galaxy S8/+:Android 7.0 "Nougat" 
+Samsung Galaxy Note FE:Android 7.0 "Nougat" 
+Samsung Galaxy Note 8:Android 7.0 "Nougat" 
+Samsung Galaxy A8 (2018)/+:Android 7.0 "Nougat" 
+Samsung Galaxy S9/+:Android 8.0 "Oreo" 
+Samsung Galaxy A6/+:Android 8.0 "Oreo" 
+Samsung Galaxy A8 Star:Android 8.0 "Oreo" 
+Samsung Galaxy Note 9:Android 8.0 "Oreo" 
+Samsung Galaxy A7 (2018):Android 8.0 "Oreo" 
+Samsung Galaxy A9 (2018):Android 8.0 "Oreo" 
+Samsung Galaxy A6s:Android 8.0 "Oreo" 
+Samsung Galaxy A8s:Android 9.0 "Pie" 
+Samsung Galaxy A10:Android 9.0 "Pie" 
+Samsung Galaxy A30:Android 9.0 "Pie" 
+Samsung Galaxy A50:Android 9.0 "Pie" 
+Samsung Galaxy S10/e/+:Android 9.0 "Pie" 
+Samsung Galaxy S10 5G:Android 9.0 "Pie" 
+Samsung Galaxy A20/A40:Android 9.0 "Pie" 
+Samsung Galaxy A2 Core:Android 8.0 "Oreo" 
+Samsung Galaxy A20e:Android 9.0 "Pie" 
+Samsung Galaxy A70:Android 9.0 "Pie" 
+Samsung Galaxy A80:Android 9.0 "Pie" 
+Samsung Galaxy A60:Android 9.0 "Pie" 
+Samsung Galaxy A10e:Android 9.0 "Pie" 
+Samsung Galaxy Note 10/+:Android 9.0 "Pie" 
+Samsung Galaxy A10s:Android 9.0 "Pie" 
+Samsung Galaxy A30s/A50s:Android 9.0 "Pie" 
+Samsung Galaxy A90 5G:Android 9.0 "Pie" 
+Samsung Galaxy A70s:Android 9.0 "Pie" 
+Samsung Galaxy Fold:Android 9.0 "Pie" 
+Samsung Galaxy A20s:Android 9.0 "Pie" 
+Samsung Galaxy A51/A71:Android 10 
+Samsung Galaxy A01:Android 10 
+Samsung Galaxy Z Flip:Android 10 
+Samsung Galaxy S20/+/Ultra:Android 10 
+Samsung Galaxy A31:Android 10 
+Samsung Galaxy A11:Android 10 
+Samsung Galaxy A41:Android 10 
+Samsung Galaxy A51 5G/A71 5G/A Quantum:Android 10 
+Samsung Galaxy A21:Android 10 
+Samsung Galaxy A21s:Android 10 
+Samsung Galaxy A71 5G UW:Android 10 
+Samsung Galaxy Z Flip 5G:Android 10 
+Samsung Galaxy Note 20/Ultra:Android 10 
+Samsung Galaxy Z Fold 2:Android 10 
+Samsung Galaxy A01 Core:Android 10 
+Samsung Galaxy A51 5G UW:Android 10 
+Samsung Galaxy A42 5G:Android 10 
+Samsung Galaxy S20 FE:Android 10 
+Samsung Galaxy F41:Android 10 
+Sony Ericsson Xperia X10:Android 1.6 "Donut" 
+Sony Ericsson Xperia X8:Android 1.6 "Donut" 
+Sony Ericsson Xperia Play:Android 2.3 "Gingerbread" 
+Sony Ericsson Xperia pro:Android 2.3 "Gingerbread" 
+Sony Xperia Z:Android 4.1 "Jelly Bean" 
+Sony Xperia Z Ultra:Android 4.1 "Jelly Bean" 
+Sony Xperia Z1:Android 4.1 "Jelly Bean" 
+Sony Xperia Z1 Compact:Android 4.1 "Jelly Bean" 
+Sony Xperia Z2:Android 4.4 "KitKat" 
+Sony Xperia Z3/Compact:Android 4.4 "KitKat" 
+Sony Xperia Z4:Android 5.0 "Lollipop" 
+Sony Xperia Z5/Compact:Android 5.0 "Lollipop" 
+Sony Xperia Z5 Premium:Android 5.0 "Lollipop" 
+Sony Xperia X/Performance:Android 6.0 "Marshmallow" 
+Sony Xperia XA:Android 6.0 "Marshmallow" 
+Sony Xperia XA Ultra:Android 6.0 "Marshmallow" 
+Sony Xperia X Compact:Android 6.0 "Marshmallow" 
+Sony Xperia XZ:Android 6.0 "Marshmallow" 
+Sony Xperia XZs/Premium:Android 7.0 "Nougat" 
+Sony Xperia XA1:Android 7.0 "Nougat" 
+Sony Xperia XA1 Ultra:Android 7.0 "Nougat" 
+Sony Xperia L1:Android 7.0 "Nougat" 
+Sony Xperia XZ1/Compact:Android 8.0 "Oreo" 
+Sony Xperia XA1 Plus:Android 7.0 "Nougat" 
+Sony Xperia L2:Android 7.0 "Nougat" 
+Sony Xperia XA2/Ultra:Android 8.0 "Oreo" 
+Sony Xperia XZ2/Compact:Android 8.0 "Oreo" 
+Sony Xperia XZ2 Premium:Android 8.0 "Oreo" 
+Sony Xperia XZ3:Android 9.0 "Pie" 
+Sony Xperia XA2 Plus:Android 8.0 "Oreo" 
+Sony Xperia 10/Plus:Android 9.0 "Pie" 
+Sony Xperia L3:Android 8.0 "Oreo" 
+Sony Xperia 1:Android 9.0 "Pie" 
+Sony Xperia 5:Android 9.0 "Pie" 
+Sony Xperia 8:Android 9.0 "Pie" 
+Sony Xperia L4:Android 9.0 "Pie" 
+Sony Xperia 1 II:Android 10 
+Sony Xperia 10 II:Android 10 
+Sony Xperia 5 II:Android 10 
+TCL Plex:Android 9.0 "Pie" 
+TCL 10L:Android 10 
+TCL 10 Pro:Android 10 
+TCL 10 SE:Android 10 
+TCL 10 5G:Android 10 
+TCL 10 Plus:Android 10 
+Tecno Phantom 6/Plus:Android 6.0 "Marshmallow" 
+Tecno Camon CX:Android 7.0 "Nougat" 
+Tecno Camon CX Air:Android 7.0 "Nougat" 
+Tecno Spark:Android 7.0 "Nougat" 
+Tecno Spark Plus:Android 7.0 "Nougat" 
+Tecno Phantom 8:Android 7.0 "Nougat" 
+Tecno Spark Pro:Android 7.0 "Nougat" 
+Tecno Camon CM:Android 7.0 "Nougat" 
+Tecno Spark CM:Android 7.0 "Nougat" 
+Tecno Camon X/Pro:Android 8.0 "Oreo" 
+Tecno Spark 2:Android 8.0 "Oreo" 
+Tecno Camon 11/Pro:Android 8.0 "Oreo" 
+Tecno Camon iACE2/2X:Android 8.0 "Oreo" 
+Tecno Spark 3/Pro:Android 9.0 "Pie" 
+Tecno Phantom 9:Android 9.0 "Pie" 
+Tecno Spark Go:Android 9.0 "Pie" 
+Tecno Spark 4/Air/Lite:Android 9.0 "Pie" 
+Tecno Camon 12:Android 9.0 "Pie" 
+Tecno Camon 12 Pro:Android 9.0 "Pie" 
+Tecno Camon 12 Air:Android 9.0 "Pie" 
+Tecno Camon 15/Pro:Android 10 
+Tecno Camon 15 Air/Premier:Android 10 
+Tecno Spark 5:Android 10 
+Tecno Spark 5 Air:Android 10 
+Tecno Spark 5 Pro:Android 10 
+Tecno Spark Power 2:Android 10 
+Tecno Pouvoir 4/Pro:Android 10 
+Tecno Camon 16 Premier:Android 10 
+Tecno Spark 6:Android 10 
+Vivo X1:Android 4.1 "Jelly Bean" 
+Vivo X3:Android 4.1 "Jelly Bean" 
+Vivo X3S:Android 4.1 "Jelly Bean" 
+Vivo X5/Max:Android 4.4 "KitKat" 
+Vivo X5Max+:Android 4.4 "KitKat" 
+Vivo X5Pro:Android 5.0 "Lollipop" 
+Vivo X5Max Platinum:Android 4.4 "KitKat" 
+Vivo X6/Plus:Android 5.0 "Lollipop" 
+Vivo X6S/Plus:Android 5.0 "Lollipop" 
+Vivo X7/Plus:Android 5.0 "Lollipop" 
+Vivo X9/Plus:Android 6.0 "Marshmallow" 
+Vivo X9s/Plus:Android 7.0 "Nougat" 
+Vivo X20/Plus:Android 7.0 "Nougat" 
+Vivo X20 Plus UD:Android 7.0 "Nougat" 
+Vivo X21/UD:Android 8.0 "Oreo" 
+Vivo V9:Android 8.0 "Oreo" 
+Vivo X21i:Android 8.0 "Oreo" 
+Vivo NEX:Android 8.0 "Oreo" 
+Vivo X23:Android 8.0 "Oreo" 
+Vivo NEX Dual Display:Android 9.0 "Pie" 
+Vivo X27/Pro:Android 9.0 "Pie" 
+Vivo NEX 3:Android 9.0 "Pie" 
+Vivo X30/Pro:Android 9.0 "Pie" 
+Vivo NEX 3S:Android 10 
+Vivo X50 Lite:Android 10 
+Vivo X50/Pro/Pro+:Android 10 
+Xiaomi Mi 1:Android 2.3 "Gingerbread" 
+Xiaomi Mi 1S:Android 4.0 "Ice Cream Sandwich" 
+Xiaomi Mi 2:Android 4.1 "Jelly Bean" 
+Xiaomi Mi 2S/A:Android 4.1 "Jelly Bean" 
+Xiaomi Mi 3/3 TD:Android 4.1 "Jelly Bean" 
+Xiaomi Mi 4:Android 4.4 "KitKat" 
+Xiaomi Mi Note:Android 4.4 "KitKat" 
+Xiaomi Mi Note Pro:Android 5.0 "Lollipop" 
+Xiaomi Mi 4i:Android 5.0 "Lollipop" 
+Xiaomi Mi 4c:Android 5.0 "Lollipop" 
+Xiaomi Mi 4S:Android 5.0 "Lollipop" 
+Xiaomi Mi 5:Android 6.0 "Marshmallow" 
+Xiaomi Mi Max/Pro:Android 6.0 "Marshmallow" 
+Xiaomi Mi 5s/5s Plus:Android 6.0 "Marshmallow" 
+Xiaomi Mi Note 2:Android 6.0 "Marshmallow" 
+Xiaomi Mi MIX:Android 6.0 "Marshmallow" 
+Xiaomi Mi 5c:Android 6.0 "Marshmallow" 
+Xiaomi Mi 6:Android 7.0 "Nougat" 
+Xiaomi Mi Max 2:Android 7.0 "Nougat" 
+Xiaomi Mi 5X/Mi A1:Android 7.0 "Nougat" 
+Xiaomi Mi Note 3:Android 7.0 "Nougat" 
+Xiaomi Mi MIX 2:Android 7.0 "Nougat" 
+Xiaomi Mi MIX 2S:Android 8.0 "Oreo" 
+Xiaomi Mi 6X/Mi A2:Android 8.0 "Oreo" 
+Xiaomi Black Shark:Android 8.0 "Oreo" 
+Xiaomi Mi 8/SE/EE:Android 8.0 "Oreo" 
+Xiaomi Mi Max 3:Android 8.0 "Oreo" 
+Xiaomi Pocophone F1:Android 8.0 "Oreo" 
+Xiaomi Mi 8 Pro/Lite:Android 8.0 "Oreo" 
+Xiaomi Mi MIX 3:Android 9.0 "Pie" 
+Xiaomi Black Shark Helo:Android 8.0 "Oreo" 
+Xiaomi Mi Play:Android 8.0 "Oreo" 
+Xiaomi Mi 9/SE:Android 9.0 "Pie" 
+Xiaomi Black Shark 2:Android 9.0 "Pie" 
+Xiaomi Mi MIX 3 5G:Android 9.0 "Pie" 
+Xiaomi Mi 9T:Android 9.0 "Pie" 
+Xiaomi Mi A3:Android 9.0 "Pie" 
+Xiaomi Mi 9T Pro:Android 9.0 "Pie" 
+Xiaomi Black Shark 2 Pro:Android 9.0 "Pie" 
+Xiaomi Mi 9 Lite:Android 9.0 "Pie" 
+Xiaomi Mi 9 Pro/Pro 5G:Android 10 
+Xiaomi Mi Note 10/Pro:Android 9.0 "Pie" 
+Xiaomi Mi 10/Pro:Android 10 
+Xiaomi Black Shark 3/Pro:Android 10 
+Xiaomi Mi 10 Lite:Android 10 
+Xiaomi Mi 10 Youth:Android 10 
+Xiaomi Mi Note 10 Lite:Android 10 
+POCO M2 Pro:Android 10 
+Xiaomi Mi 10 Ultra:Android 10 
+POCO X3 NFC:Android 10 
+POCO M2:Android 10 
+POCO X3:Android 10 
+Xiaomi Mi 10T/Pro/Lite:Android 10 
+POCO C3:Android 10 
+ZTE Racer:Android 2.0 "Eclair" 
+ZTE Blade:Android 2.0 "Eclair" 
+ZTE Libra:Android 2.0 "Eclair" 
+ZTE Racer II:Android 2.2 "Froyo" 
+ZTE Blade II V880+:Android 2.3 "Gingerbread" 
+ZTE Blade III:Android 4.0 "Ice Cream Sandwich" 
+Nubia Z5:Android 4.1 "Jelly Bean" 
+ZTE Blade III Pro:Android 4.1 "Jelly Bean" 
+ZTE Blade G V880G:Android 4.1 "Jelly Bean" 
+ZTE Blade G2:Android 4.1 "Jelly Bean" 
+ZTE Blade V:Android 4.1 "Jelly Bean" 
+ZTE Blade Q/Maxi/Mini:Android 4.1 "Jelly Bean" 
+Nubia Z5S:Android 4.1 "Jelly Bean" 
+Nubia Z5S mini NX403A:Android 4.1 "Jelly Bean" 
+Nubia X6:Android 4.1 "Jelly Bean" 
+ZTE Blade L2:Android 4.1 "Jelly Bean" 
+Nubia Z7/Max/mini:Android 4.4 "KitKat" 
+Nubia Z5S mini NX405H:Android 4.1 "Jelly Bean" 
+ZTE Blade Vec 3G/4G:Android 4.4 "KitKat" 
+ZTE Blade S6:Android 5.0 "Lollipop" 
+ZTE Blade G/Lux:Android 4.4 "KitKat" 
+ZTE Blade L3:Android 5.0 "Lollipop" 
+ZTE Blade L3 Plus:Android 4.4 "KitKat" 
+Nubia Z9 Max:Android 5.0 "Lollipop" 
+Nubia Z9 mini:Android 5.0 "Lollipop" 
+ZTE Blade S6 Plus:Android 5.0 "Lollipop" 
+Nubia Z9:Android 5.0 "Lollipop" 
+Nubia My Prague:Android 5.0 "Lollipop" 
+ZTE Blade Qlux 4G:Android 4.4 "KitKat" 
+ZTE Blade Q Pro:Android 5.0 "Lollipop" 
+ZTE Blade Apex 3:Android 4.4 "KitKat" 
+ZTE Blade A410:Android 5.0 "Lollipop" 
+ZTE Blade A460:Android 5.0 "Lollipop" 
+ZTE Axon Pro/Lux:Android 5.0 "Lollipop" 
+ZTE Blade D6:Android 5.0 "Lollipop" 
+ZTE Axon Elite:Android 5.0 "Lollipop" 
+ZTE Axon mini:Android 5.0 "Lollipop" 
+ZTE Blade S7:Android 5.0 "Lollipop" 
+ZTE Axon:Android 5.0 "Lollipop" 
+ZTE Blade X3/5/9:Android 5.0 "Lollipop" 
+ZTE Axon Max:Android 5.0 "Lollipop" 
+Nubia Prague S:Android 5.0 "Lollipop" 
+ZTE Blade V7/Lite:Android 5.0 "Lollipop" 
+Nubia Z11 mini:Android 5.0 "Lollipop" 
+ZTE Axon 7:Android 6.0 "Marshmallow" 
+Nubia Z11 Max:Android 5.0 "Lollipop" 
+Nubia Z11:Android 6.0 "Marshmallow" 
+Nubia N1:Android 6.0 "Marshmallow" 
+ZTE Axon 7 mini:Android 6.0 "Marshmallow" 
+Nubia Z11 mini S:Android 6.0 "Marshmallow" 
+ZTE Axon 7 Max:Android 6.0 "Marshmallow" 
+Nubia M2/lite:Android 6.0 "Marshmallow" 
+Nubia N2:Android 6.0 "Marshmallow" 
+Nubia N1 lite:Android 6.0 "Marshmallow" 
+Nubia Z17 mini:Android 6.0 "Marshmallow" 
+ZTE Axon 7s:Android 7.0 "Nougat" 
+Nubia Z17:Android 7.0 "Nougat" 
+ZTE Maven 2:Android 6.0 "Marshmallow" 
+Nubia Z17 lite:Android 7.0 "Nougat" 
+ZTE Blade A6:Android 7.0 "Nougat" 
+Nubia Z17 miniS:Android 7.0 "Nougat" 
+Nubia Z17s:Android 7.0 "Nougat" 
+ZTE Axon M:Android 7.0 "Nougat" 
+ZTE Blade X:Android 7.0 "Nougat" 
+ZTE Blade A3:Android 7.0 "Nougat" 
+ZTE Tempo Go:Android 8.0 "Oreo" 
+ZTE Blade V9/Vita:Android 8.0 "Oreo" 
+Nubia N3:Android 7.0 "Nougat" 
+Nubia V18:Android 7.0 "Nougat" 
+Nubia Z18 mini:Android 8.0 "Oreo" 
+Nubia Red Magic:Android 8.0 "Oreo" 
+ZTE Axon 9 Pro:Android 8.0 "Oreo" 
+Nubia Z18:Android 8.0 "Oreo" 
+Nubia X:Android 8.0 "Oreo" 
+ZTE Blade A7 Vita:Android 8.0 "Oreo" 
+Nubia Red Magic Mars:Android 9.0 "Pie" 
+ZTE Blade V10/Vita:Android 9.0 "Pie" 
+ZTE Axon 10 Pro/5G:Android 9.0 "Pie" 
+ZTE Blade L8:Android 9.0 "Pie" 
+ZTE Blade A3 (2019):Android 9.0 "Pie" 
+ZTE Blade A7:Android 9.0 "Pie" 
+ZTE Blade A5 (2019):Android 9.0 "Pie" 
+Nubia Red Magic 3:Android 9.0 "Pie" 
+Nubia Z20:Android 9.0 "Pie" 
+Nubia Red Magic 3s:Android 9.0 "Pie" 
+ZTE Blade A20:Android 9.0 "Pie" 
+ZTE Blade 10 Prime:Android 9.0 "Pie" 
+ZTE Blade A7 Prime:Android 9.0 "Pie" 
+ZTE Blade Max View:Android 7.0 "Nougat" 
+ZTE Axon 10s Pro 5G:Android 10 
+Nubia Red Magic 5G:Android 10 
+ZTE Axon 11 4G/5G:Android 10 
+Nubia Play:Android 10 
+ZTE Axon 11 SE 5G:Android 10 
+Nubia Red Magic 5G Lite:Android 10 
+Nubia Red Magic 5S:Android 10
+Alcatel 1S (2020) 5028Y:Android 10.0 Q
+Apple iPhone SE 2020:iOS 14
+Asus Rog Phone 3 8/128:Android 10.0 Q
+Asus Rog Phone 3 16/512:Android 10.0 Q
+Black Shark 3 8/128:Android 10.0 Q
+Black Shark 3 Pro:Android 10.0 Q
+Blackview BV9600E:Android 9.0 Pie
+Blackview BV9800 Pro:Android 9.0 Pie
+BQ-mobile AURORA SE 5732L :Android 9.0 Pie
+BQ-mobile Magic E 6042L:Android 9.0 Pie
+BQ-mobile Magic S 5731L :Android 9.0 Pie
+Cubot C30:Android 10.0 Q
+Cubot Note 20 Pro:Android 10.0 Q
+Cubot X30:Android 10.0 Q
+Haier Titan T5:Android 9.0 Pie
+Honor 20 Lite:Android 9.0 Pie
+Honor 30  :Android 10.0 Q
+Honor 30 PRO+ EBG-AN10:Android 10.0 Q
+Honor 30i:Android 10.0 Q
+Honor 30S  :Android 10.0 Q
+Honor 9C  AKA-L29:Android 10.0 Q
+Honor 9S DUA-LX9:Android 10.0 Q
+Honor View 30 Pro:Android 10.0 Q
+Huawei Mate Xs:Android 10.0 Q
+Huawei Mate40 Pro:Android 10.0 Q
+Huawei P30 lite New Edition MAR-LX1B:Android 10.0 Q
+Huawei P40:Android 10.0 Q
+Huawei P40 Lite:Android 10.0 Q
+Huawei P40 lite E:Android 10.0 Q
+Huawei P40 Pro:Android 10.0 Q
+Huawei P40 Pro+:Android 10.0 Q
+Huawei Y5p:Android 10.0 Q
+Huawei Y6p MED-LX9N:Android 10.0 Q
+Huawei Y8p:Android 10.0 Q
+Huawei Y6s JAT-LX1:Android 9.0 Pie
+LG Velvet:Android 10.0 Q
+Microsoft Surface Duo:Android 10.0 Q
+Motorola G8 :Android 10.0 Q
+Motorola G8 Power:Android 10.0 Q
+Motorola Moto G 5G Plus:Android 10.0 Q
+Nokia 5310 (2020):-
+Nokia 8.3 5G:Android 10.0 Q
+OnePlus 8 8/128:Android 10.0 Q
+OnePlus 8 Pro 8/128:Android 10.0 Q
+OnePlus 8 Pro 12/256:Android 10.0 Q
+OnePlus 8 12/256:Android 10.0 Q
+OnePlus Nord 8/128:Android 10.0 Q
+OPPO A72:Android 10.0 Q
+OPPO A91:Android 9.0 Pie
+OPPO Find X2:Android 10.0 Q
+OPPO Reno3:Android 10.0 Q
+OPPO Reno3 Pro:Android 10.0 Q
+OPPO Reno4 Lite:Android 10.0 Q
+OPPO Reno4 Pro 5G  8/128:Android 10.0 Q
+Oukitel C21:Android 10.0 Q
+Pocophone F2 Pro 6/128:Android 10.0 Q
+Pocophone F2 Pro 8/128:Android 10.0 Q
+Pocophone X3 NFC:Android 10.0 Q
+realme 5i:Android 9.0 Pie
+realme 6 4/64/128:Android 10.0 Q
+realme 6 Pro:Android 10.0 Q
+realme 6 8/128:Android 10.0 Q
+realme 6i:Android 10.0 Q
+realme 6s:Android 10.0 Q
+realme 7 pro:Android 10.0 Q
+realme C3:Android 10.0 Q
+realme X3 SuperZoom:Android 10.0 Q
+realme X50 5G 6/128:Android 10.0 Q
+realme X50 Pro 5G 6/128:Android 11
+Redmi 9 3/32:Android 10.0 Q
+Redmi 9 4/64:Android 10.0 Q
+Redmi 9A:Android 10.0 Q
+Redmi 9C NFC:Android 10.0 Q
+Redmi K30 Pro:Android 10.0 Q
+Redmi Note 9 3/64:Android 10.0 Q
+Redmi Note 9 Pro:Android 10.0 Q
+Redmi Note 9 4/128:Android 10.0 Q
+Redmi Note 9S 4/64:Android 10.0 Q
+Redmi Note 9S 6/128:Android 10.0 Q
+Samsung Galaxy A01 SM-A015:Android 10.0 Q
+Samsung Galaxy A01 Core :Android 10.0 Q
+Samsung Galaxy A21s SM-A217F:Android 10.0 Q
+Samsung Galaxy A31 SM-A315F:Android 10.0 Q
+Samsung Galaxy A51 SM-A515 4/64:Android 10.0 Q
+Samsung Galaxy A51 SM-A515 6/128:Android 10.0 Q
+Samsung Galaxy A71 SM-A715FZ:Android 10.0 Q
+Samsung Galaxy J2 Core 2020:Android 8.1
+Samsung Galaxy M01:Android 10.0 Q
+Samsung Galaxy M11 SM-M115F:Android 10.0 Q
+Samsung Galaxy M21 4/64:Android 10.0 Q
+Samsung Galaxy M21 6/128:Android 10.0 Q
+Samsung Galaxy M31:Android 10.0 Q
+Samsung Galaxy M31s SM-M317 :Android 10.0 Q
+Samsung Galaxy M51 SM-M515F:Android 10.0 Q
+Samsung Galaxy Note20 Exynos:Android 10.0 Q
+Samsung Galaxy Note20 Ultra Exynos:Android 10.0 Q
+Samsung Galaxy Note20 Ultra 5G:Android 10.0 Q
+Samsung Galaxy Note20 Ultra Snapdragon:Android 10.0 Q
+Samsung Galaxy S20 Exynos:Android 10.0 Q
+Samsung Galaxy S20 Fan Edition:Android 10.0 Q
+Samsung Galaxy S20 Plus Exynos:Android 10.0 Q
+Samsung Galaxy S20 Plus Snapdragon:Android 10.0 Q
+Samsung Galaxy S20 Ultra Exynos:Android 10.0 Q
+Samsung Galaxy S20 Ultra Snapdragon:Android 10.0 Q
+Samsung Galaxy S20 Snapdragon:Android 10.0 Q
+Samsung Galaxy Z Fold2 SM-F916:Android 10.0 Q
+Sony Xperia 1 Mark II:Android 10.0 Q
+Sony Xperia 5 Mark II:Android 10.0 Q
+TECNO Camon 15:Android 10.0 Q
+TECNO Camon 15 Pro:Android 10.0 Q
+TECNO Pouvoir 4:Android 10.0 Q
+UleFone Armor X7:Android 10.0 Q
+UleFone Armor X7 Pro:Android 10.0 Q
+UMIDIGI A3S:Android 10.0 Q
+vivo IQOO Neo 3:Android 10.0 Q
+vivo IQOO Z1:Android 10.0 Q
+vivo X50 Pro:Android 10.0 Q
+vivo Y30:Android 10.0 Q
+Xiaomi Mi 10 8/128/256:Android 10.0 Q
+Xiaomi Mi 10 Lite 5G 6/64:Android 10.0 Q
+Xiaomi Mi 10 Pro 8/256:Android 10.0 Q
+Xiaomi Mi 10 Pro 12/256/512:Android 10.0 Q
+Xiaomi Mi 10 12/256:Android 10.0 Q
+Xiaomi Mi 10T :Android 10.0 Q
+Xiaomi Mi 10T Pro:Android 10.0 Q
+Xiaomi Mi Note 10 Lite 6/64/128:Android 10.0 Q
+Xiaomi Mi Note 10 Lite 8/128/256:Android 10.0 Q
+AGM X3:Android 8.1
+Alcatel 1X (2019) 5008Y:Android 8.1
+Alcatel 3 (2019):Android 9.0 Pie
+Alcatel 3X (2019) 5048Y:Android 9.0 Pie
+Apple iPhone 11:iOS 14
+Apple iPhone 11 Pro:iOS 14
+Apple iPhone 11 Pro Max:iOS 14
+Asus ROG Phone II ZS660KL:Android 9.0 Pie
+Asus ZenFone 6:Android 9.0 Pie
+Black Fox B5:Android 8.1
+Blackview MAX1:Android 8.1
+BQ-mobile BQ-6040L Magic :Android 9.0 Pie
+BQ-mobile BQ-4001G Cool:Android 8.1
+BQ-mobile BQ-5530L:Android 9.0 Pie
+Cubot KingKong Mini:Android 9.0 Pie
+Cubot Quest Lite:Android 9.0 Pie
+Cubot X19:Android 9.0 Pie
+Doogee S68 Pro:Android 9.0 Pie
+Doogee S90:Android 8.1
+Fairphone 3:Android 9.0 Pie
+Google Pixel 3a:Android 11
+Google Pixel 3a XL:Android 11
+Google Pixel 4:Android 11
+Google Pixel 4 XL:Android 11
+Highscreen Power Five Max 3:Android 9.0 Pie
+Hisense Rock 5:Android 9.0 Pie
+Hisense U30:Android 9.0 Pie
+Honor 10i:Android 10.0 Q
+Honor 20 YAL-L21:Android 10.0 Q
+Honor 20 Pro:Android 10.0 Q
+Honor 8A Russia:Android 9.0 Pie
+Honor 8A China:Android 9.0 Pie
+Honor 8S:Android 9.0 Pie
+Honor 9X 4/128:Android 9.0 Pie
+Honor 9X China 4/64:Android 10.0 Q
+Honor 9X China 6/64/128:Android 10.0 Q
+Honor 9X China 8/128:Android 10.0 Q
+Honor 9X 6/128:Android 9.0 Pie
+Honor View 20 6/128:Android 9.0 Pie
+Honor View 20 8/256:Android 9.0 Pie
+HTC Wildfire E:Android 9.0 Pie
+HTC Wildfire E1:Android 9.0 Pie
+HTC Wildfire E1 Plus:Android 9.0 Pie
+Huawei Mate 30 Pro:Android 10.0 Q
+Huawei Nova 5T:Android 10.0 Q
+Huawei NOVA 6 5G:Android 10.0 Q
+Huawei P Smart (2019):Android 9.0 Pie
+Huawei P smart Z STK-LX1:Android 10.0 Q
+Huawei P30:Android 10.0 Q
+Huawei P30 lite MAR-LX1M:Android 10.0 Q
+Huawei P30 lite MAR-L01A:Android 10.0 Q
+Huawei P30 Pro:Android 10.0 Q
+Huawei Y5 2019 AMN-LX9:Android 9.0 Pie
+Huawei Y6 2019:Android 9.0 Pie
+Huawei Y7 2019 3/32:Android 8.1
+Huawei Y7 2019 4/64:Android 8.1
+Itel A46:Android 9.0 Pie
+Jinga Neon:Android 8.1
+Leagoo M13:Android 9.0 Pie
+Lenovo  Z6 Lite 4/64:Android 9.0 Pie
+Lenovo  Z6 Lite 6/128:Android 9.0 Pie
+Lenovo Z6 Pro 6/128:Android 9.0 Pie
+Lenovo Z6 Pro 8/128/256:Android 9.0 Pie
+LG G8 ThinQ:Android 10.0 Q
+LG G8s ThinQ:Android 9.0 Pie
+LG G8X ThinQ:Android 9.0 Pie
+LG V50 ThinQ 5G:Android 9.0 Pie
+Meizu 16s:Android 9.0 Pie
+Meizu 16Xs:Android 9.0 Pie
+Meizu Note 9 4/64/128:Android 9.0 Pie
+Meizu Note 9 6/128:Android 9.0 Pie
+Motorola G9 Play :Android 10.0 Q
+Motorola G8 Plus:Android 10.0 Q
+Motorola Moto G7:Android 10.0 Q
+Motorola Moto G7 Play:Android 9.0 Pie
+Motorola Moto G7 Plus:Android 10.0 Q
+Motorola Moto G7 Power:Android 9.0 Pie
+Motorola Moto Z4:Android 10.0 Q
+Motorola One Action:Android 9.0 Pie
+Motorola One Hyper:Android 10.0 Q
+Motorola One Vision:Android 10.0 Q
+Motorola One Zoom:Android 9.0 Pie
+Nokia 1 Plus:Android 10.0 Q
+Nokia 2.2:Android 10.0 Q
+Nokia 2.3:Android 10.0 Q
+Nokia 3.2 2/16:Android 10.0 Q
+Nokia 3.2 3/32:Android 10.0 Q
+Nokia 4.2 3/32:Android 10.0 Q
+Nokia 4.2 2/16:Android 10.0 Q
+Nokia 6.2:Android 10.0 Q
+Nokia 7.2 4/64:Android 10.0 Q
+Nokia 7.2 6/128:Android 10.0 Q
+Nokia 8.1:Android 10.0 Q
+Nokia 800 Tough TA-1186:Mozilla Firefox OS
+Nokia 9 PureView:Android 10.0 Q
+OnePlus 7 6/128:Android 10.0 Q
+OnePlus 7 Pro 6/128:Android 10.0 Q
+OnePlus 7 Pro 12/256:Android 10.0 Q
+OnePlus 7 Pro 8/256:Android 10.0 Q
+OnePlus 7 12/256:Android 10.0 Q
+OnePlus 7 8/256:Android 10.0 Q
+OnePlus 7T:Android 10.0 Q
+OnePlus 7T Pro:Android 10.0 Q
+OPPO A1K:Android 9.0 Pie
+OPPO A5 2020:Android 10.0 Q
+OPPO A9 2020:Android 9.0 Pie
+OPPO Reno:Android 9.0 Pie
+OPPO Reno 10x Zoom:Android 9.0 Pie
+OPPO Reno Z :Android 9.0 Pie
+OPPO Reno2:Android 10.0 Q
+Oukitel C15 Pro:Android 9.0 Pie
+Oukitel С17 Pro:Android 9.0 Pie
+Prestigio Muze V3 LTE :Android 8.1
+realme 3 3/32:Android 9.0 Pie
+realme 3 Pro 4/64:Android 9.0 Pie
+realme 3 Pro 6/128:Android 9.0 Pie
+realme 3 4/64:Android 9.0 Pie
+realme 5:Android 9.0 Pie
+realme C2 2/16/32:Android 9.0 Pie
+realme C2 3/32:Android 9.0 Pie
+realme Q:Android 10.0 Q
+realme X RMX1901:Android 10.0 Q
+realme X2 6/64/128:Android 10.0 Q
+realme X2 Pro:Android 10.0 Q
+realme X2 8/128:Android 10.0 Q
+realme XT 4/64:Android 9.0 Pie
+realme XT 8/128:Android 9.0 Pie
+realme XT For Russia:Android 10.0 Q
+Redmi 7 3/32:Android 9.0 Pie
+Redmi 7 2/16:Android 9.0 Pie
+Redmi 7A 2/16:Android 10.0 Q
+Redmi 7A 2/32:Android 10.0 Q
+Redmi 7A 3/32:Android 10.0 Q
+Redmi 8 3/32:Android 10.0 Q
+Redmi 8 4/64:Android 10.0 Q
+Redmi 8A:Android 9.0 Pie
+Redmi Go 1/8:Android 8.1
+Redmi Go 1/16:Android 8.1
+Redmi K20 Pro 6/64:Android 10.0 Q
+Redmi K20 Pro 6/128:Android 10.0 Q
+Redmi K20 Pro 8/128:Android 10.0 Q
+Redmi K20 Pro 8/256:Android 10.0 Q
+Redmi K30 6/64/128:Android 10.0 Q
+Redmi K30 5G 6/64/128:Android 10.0 Q
+Redmi K30 5G 8/256:Android 10.0 Q
+Redmi K30 8/128/256:Android 10.0 Q
+Redmi Note 7 3/32:Android 10.0 Q
+Redmi Note 7 Pro 4/64:Android 10.0 Q
+Redmi Note 7 Pro 6/128:Android 10.0 Q
+Redmi Note 7 4/128:Android 10.0 Q
+Redmi Note 7 4/64:Android 10.0 Q
+Redmi Note 7 6/64:Android 10.0 Q
+Redmi Note 8 4/64/128:Android 9.0 Pie
+Redmi Note 8 Pro 6/64/128:Android 10.0 Q
+Redmi Note 8 Pro 8/128:Android 10.0 Q
+Redmi Note 8T 3/32:Android 9.0 Pie
+Redmi Note 8T 4/128:Android 9.0 Pie
+Redmi Note 8T 4/64:Android 9.0 Pie
+Samsung Galaxy A10  SM-A105F/DS:Android 10.0 Q
+Samsung Galaxy A10s SM-A107F:Android 10.0 Q
+Samsung Galaxy A20 SM-A205FN:Android 9.0 Pie
+Samsung Galaxy A20s SM-A207:Android 9.0 Pie
+Samsung Galaxy A30 SM-A305FN 3/32:Android 10.0 Q
+Samsung Galaxy A30 SM-A305FN 4/64:Android 10.0 Q
+Samsung Galaxy A30s SM-A307FN/DS:Android 10.0 Q
+Samsung Galaxy A40:Android 9.0 Pie
+Samsung Galaxy A50 4/64:Android 10.0 Q
+Samsung Galaxy A50 6/128:Android 10.0 Q
+Samsung Galaxy A60:Android 9.0 Pie
+Samsung Galaxy A70 SM-A705:Android 10.0 Q
+Samsung Galaxy A80:Android 10.0 Q
+Samsung Galaxy A80s SM-G8870:Android 9.0 Pie
+Samsung Galaxy A8s SM-G887:Android 9.0 Pie
+Samsung Galaxy Fold SM-F900F:Android 9.0 Pie
+Samsung Galaxy M10:Android 8.1
+Samsung Galaxy M20:Android 8.1
+Samsung Galaxy M30s:Android 9.0 Pie
+Samsung Galaxy Note10 SM-N970F:Android 9.0 Pie
+Samsung Galaxy Note10+ Exynos :Android 10.0 Q
+Samsung Galaxy Note10+ 5G:Android 10.0 Q
+Samsung Galaxy Note10+ Snapdragon:Android 10.0 Q
+Samsung Galaxy Note10 Snapdragon:Android 10.0 Q
+Samsung Galaxy Note10 5G:Android 9.0 Pie
+Samsung Galaxy Note10 Lite SM-N770F:Android 10.0 Q
+Samsung Galaxy S10 Exynos:Android 10.0 Q
+Samsung Galaxy S10 Lite SM-G770FZWUSER:Android 10.0 Q
+Samsung Galaxy S10+ Exynos 8 GB :Android 9.0 Pie
+Samsung Galaxy S10+ Exynos 12 GB:Android 9.0 Pie
+Samsung Galaxy S10+ Snapdragon 12 GB:Android 9.0 Pie
+Samsung Galaxy S10+ Snapdragon 8 GB:Android 9.0 Pie
+Samsung Galaxy S10 Snapdragon:Android 10.0 Q
+Samsung Galaxy S10e Exynos:Android 10.0 Q
+Samsung Galaxy S10e Snapdragon:Android 10.0 Q
+Sharp AQUOS R2 Compact:Android 9.0 Pie
+Sony Xperia 1:Android 10.0 Q
+Sony Xperia 10:Android 9.0 Pie
+Sony Xperia 5:Android 10.0 Q
+Sony Xperia L3:Android 8.1
+TCL Plex:Android 9.0 Pie
+TECNO Camon 11s:Android 9.0 Pie
+TECNO Camon 12:Android 9.0 Pie
+TECNO CAMON 12 Air:Android 9.0 Pie
+TECNO POP 2S:Android 9.0 Pie
+TECNO Spark 4 :Android 9.0 Pie
+TECNO Spark 4 Air:Android 9.0 Pie
+teXet Pay 5 4G TM-5084:Android 8.1
+teXet Pay 5.7 PRO:Android 9.0 Pie
+TP-LINK Neffos X20 Pro:Android 9.0 Pie
+UleFone Armor 7:Android 9.0 Pie
+UleFone Armor X5:Android 9.0 Pie
+UleFone Note 7:Android 9.0 Pie
+UMIDIGI A5 Pro:Android 10.0 Q
+UMIDIGI F1 Play:Android 9.0 Pie
+UMIDIGI F2:Android 10.0 Q
+UMIDIGI Power:Android 9.0 Pie
+vivo NEX 3:Android 10.0 Q
+vivo u3x:Android 9.0 Pie
+vivo V15 Pro:Android 9.0 Pie
+vivo V17:Android 9.0 Pie
+vivo V17 Neo:Android 9.0 Pie
+vivo Y11:Android 9.0 Pie
+vivo Y17:Android 9.0 Pie
+vivo Y19:Android 9.0 Pie
+vivo Y91C:Android 8.1
+vivo Z5X 4/64:Android 9.0 Pie
+vivo Z5X 6/64/128:Android 9.0 Pie
+vivo Z5X 8/128:Android 9.0 Pie
+Black Shark 2:Android 9.0 Pie
+Xiaomi Mi 9 6/64/128:Android 10.0 Q
+Xiaomi Mi 9 Lite:Android 10.0 Q
+Xiaomi Mi 9 SE:Android 10.0 Q
+Xiaomi Mi 9 8/128:Android 10.0 Q
+Xiaomi Mi 9 Transparent Edition:Android 10.0 Q
+Xiaomi Mi 9T:Android 10.0 Q
+Xiaomi Mi 9T Pro 6/64:Android 10.0 Q
+Xiaomi Mi 9T Pro 6/128:Android 10.0 Q
+Xiaomi Mi 9T Pro 8/256:Android 10.0 Q
+Xiaomi Mi A3 4/64:Android 10.0 Q
+Xiaomi Mi A3 4/128:Android 10.0 Q
+Xiaomi Mi CC9e 4/64:Android 10.0 Q
+Xiaomi Mi Note 10 6/128:Android 11
+Xiaomi Mi Note 10 8/256:Android 11
+Xiaomi Qin 2:Android 9.0 Pie
+Xiaomi Qin 2 PRO:Android 9.0 Pie
+ZTE Axon 10 Pro 5G:Android 9.0 Pie
+ZTE Blade 20 Smart:Android 9.0 Pie
+ZTE Blade A7 2020:Android 9.0 Pie
+ZTE Blade L8:Android 9.0 Pie
+ZTE Blade V10:Android 10.0 Q
+ZTE Blade V10 Vita 2/32:Android 9.0 Pie
+ZTE Blade V10 Vita 3/64:Android 9.0 Pie
+360 N6 Lite:Android 8.1
+Aermoo M2:Android 7.1 «Nougat»
+AGM A9 3/32:Android 8.1
+AGM A9 4/32:Android 8.1
+AGM A9 4/64:Android 8.1
+Alcatel 1 OT-5033D:Android 8.1
+Alcatel 1C OT-5009D:Android 7.0 «Nougat»
+Alcatel 3:Android 7.1 «Nougat»
+Alcatel 3v:Android 8.0 «Oreo»
+Alcatel 3x 2/16:Android 7.1 «Nougat»
+Alcatel 3x 3/32:Android 7.1 «Nougat»
+Alcatel 5 2/16:Android 7.1 «Nougat»
+Alcatel 5 3/32:Android 7.1 «Nougat»
+Alcatel 5V:Android 8.1
+Alcatel OT-5059D 1X:Android 8.0 «Oreo»
+AllCall MIX2:Android 7.1 «Nougat»
+Apple iPhone XR:iOS 14
+Apple iPhone Xs:iOS 14
+Apple iPhone Xs Max:iOS 14
+Apple iPhone Xs Max for China:iOS 14
+Ark Benefit M9:Android 8.1
+Ark Elf S8:Android 6.0 «Marshmallow»
+Artel U4:Android 8.1
+Asus ROG Phone ZS600KL:Android 8.1
+Asus ZenFone 5 ZE620KL:Android 9.0 Pie
+Asus ZenFone 5 Lite ZC600KL:Android 9.0 Pie
+Asus ZenFone 5Z 6/64:Android 9.0 Pie
+Asus ZenFone 5Z 6/128:Android 9.0 Pie
+Asus ZenFone 5Z 8/256:Android 9.0 Pie
+Asus Zenfone Max (M1) ZB555KL:Android 8.0 «Oreo»
+Asus Zenfone Max M2 ZB633KL 3/32, 4/64:Android 10.0 Q
+Asus Zenfone Max M2 ZB633KL 4/64:Android 10.0 Q
+Asus ZenFone Max Pro M1 ZB602KL 3/32:Android 9.0 Pie
+Asus ZenFone Max Pro M1 ZB602KL 4/128:Android 9.0 Pie
+Asus ZenFone Max Pro M1 ZB602KL 4/64:Android 9.0 Pie
+Asus Zenfone Max Pro (M2) ZB631KL:Android 10.0 Q
+Billion Capture+ 3/32:Android 8.1
+Billion Capture+ 4/64:Android 8.1
+BlackBerry Evolve:Android 9.0 Pie
+BlackBerry KEY2:Android 9.0 Pie
+Blackview A20:Android 8.1
+Blackview BV5800 Pro:Android 8.1
+Blackview BV6800 Pro:Android 8.0 «Oreo»
+Blackview BV9000 Pro:Android 7.1 «Nougat»
+Blackview BV9500:Android 8.1
+Blackview BV9500 Pro:Android 8.1
+Blackview BV9600 Pro:Android 8.1
+Blackview P10000 Pro:Android 8.1
+Blackview S6:Android 7.0 «Nougat»
+Bluboo D5 Pro:Android 7.0 «Nougat»
+Bluboo S3:Android 8.0 «Oreo»
+BQ-mobile BQ-5701L Slim:Android 7.0 «Nougat»
+BQ-mobile BQ-6200L Aurora:Android 8.1
+BQ-mobile BQ-5007L Iron:Android 7.0 «Nougat»
+BQ-mobile BQ-5065 Choice:Android 7.0 «Nougat»
+BQ-mobile BQ-5500L Advance:Android 7.1 «Nougat»
+BQ-mobile BQ-5525 Practic:Android 7.0 «Nougat»
+BQ-mobile BQ-5001L Contact:Android 7.0 «Nougat»
+BQ-mobile BQ-5003L Shark Pro:Android 7.0 «Nougat»
+BQ-mobile BQ-5005L Intense:Android 7.0 «Nougat»
+BQ-mobile BQ-5008L Brave:Android 7.0 «Nougat»
+BQ-mobile BQ-5012L Rich:Android 7.0 «Nougat»
+BQ-mobile BQ-5035 VELVET:Android 7.0 «Nougat»
+BQ-mobile BQ-5206L Balance:Android 7.0 «Nougat»
+BQ-mobile BQ-5211 STRIKE:Android 7.0 «Nougat»
+BQ-mobile BQ-5302G:Android 8.1
+BQ-mobile BQ-5500L Advance:Android 7.0 «Nougat»
+BQ-mobile BQ-5507L Iron Max:Android 7.0 «Nougat»
+BQ-mobile BQ-5508L Next LTE:Android 7.1 «Nougat»
+BQ-mobile BQ-5517L Twin Pro:Android 8.1
+BQ-mobile BQ-5702 Spring:Android 7.0 «Nougat»
+BQ-mobile BQ-6015L Universe:Android 8.0 «Oreo»
+BQ-mobile BQ-5515L Fast:Android 8.1
+BQ-mobile Jumbo BQ-6001L:Android 7.1 «Nougat»
+BQ-mobile BQ-5707G Next Music:Android 8.1
+BQ-mobile BQ-5512L Strike Forward:Android 8.1
+Caterpillar Cat S61:Android 8.0 «Oreo»
+China Mobile A3S:Android 7.1 «Nougat»
+China Mobile A4s:Android 7.1 «Nougat»
+Cubot J3:Android 8.1
+Cubot KingKong 3:Android 8.1
+Cubot X18 Plus:Android 8.0 «Oreo»
+DEXP AS160:Android 8.0 «Oreo»
+DEXP AS260:Android 8.1
+DEXP B145:Android 7.0 «Nougat»
+DEXP B450:Android 8.0 «Oreo»
+DEXP BL250:Android 8.1
+DEXP G355:Android 8.0 «Oreo»
+DEXP T155:Android 8.1
+DEXP Z355:Android 8.1
+DEXP Z455:Android 9.0 Pie
+Digma HIT Q401 3G:Android 7.0 «Nougat»
+Digma HIT Q500 3G:Android 7.0 «Nougat»
+Digma Linx A453 3G:Android 7.0 «Nougat»
+Digma Linx Alfa 3G:Android 8.1
+Digma Linx Atom 3G:Android 8.1
+Digma Linx B510 3G:Android 7.0 «Nougat»
+Digma Linx Joy 3G:Android 8.1
+Digma Linx Pay 4G:Android 8.1
+Digma VOX V40 3G:Android 8.1
+Doogee BL5500 Lite:Android 8.1
+Doogee BL9000:Android 8.1
+Doogee S60 Lite:Android 7.0 «Nougat»
+Doogee S80:Android 8.1
+Doogee X50:Android 8.1
+Doogee X55:Android 7.0 «Nougat»
+Doogee X60:Android 8.1
+Doogee X60L:Android 7.0 «Nougat»
+Doogee Y7 Plus:Android 8.1
+Elephone Soldier:Android 8.0 «Oreo»
+Elephone U Pro:Android 9.0 Pie
+Energizer Hardcase H240S:Android 6.0 «Marshmallow»
+Ergo Maximum B501:Android 7.0 «Nougat»
+Finepower C5:Android 6.0 «Marshmallow»
+Fly Life Compact 3G:Android 7.0 «Nougat»
+Fly Photo Pro:Android 8.1
+Fly Power Plus XXL FS530 :Android 7.0 «Nougat»
+Ginzzu RS9602:Android 8.1
+Google Pixel 3:Android 11
+Google Pixel 3 XL:Android 11
+Hammer Energy:Android 6.0 «Marshmallow»
+Highscreen Power Five Max 2:Android 8.1
+Hisense A6:Android 8.1
+HomTom S99:Android 8.0 «Oreo»
+Honor 10:Android 10.0 Q
+Honor 10 Lite HRY-LX1:Android 10.0 Q
+Honor 7A DUA-L22:Android 8.1
+Honor 7A Play Standart:Android 8.0 «Oreo»
+Honor 7A Pro:Android 8.0 «Oreo»
+Honor 7С:Android 8.0 «Oreo»
+Honor 7C Pro LND-L29:Android 8.0 «Oreo»
+Honor 8C BKK-L21:Android 8.1
+Honor 8X JSN-L21:Android 10.0 Q
+Honor 8X Max Snapdragon 636:Android 8.1
+Honor 8X Max Snapdragon 660:Android 8.1
+Honor 9 Lite:Android 9.0 Pie
+Honor Magic 2:Android 9.0 Pie
+Honor Note 10:Android 8.1
+Honor Play COR-L29:Android 9.0 Pie
+HTC Desire 12 2/16:Android 7.1 «Nougat»
+HTC Desire 12+:Android 8.0 «Oreo»
+HTC Desire 12 3/32:Android 7.1 «Nougat»
+HTC Exodus 1:Android 8.0 «Oreo»
+HTC U11 EYEs:Android 7.0 «Nougat»
+HTC U12+:Android 8.0 «Oreo»
+Huawei Mate 20 HMA-L29:Android 9.0 Pie
+Huawei Mate 20 lite SNE-LX1:Android 10.0 Q
+Huawei Mate 20 Pro LYA-L29:Android 9.0 Pie
+Huawei Mate 20 RS Porsche Design:Android 9.0 Pie
+Huawei Mate 20 X:Android 9.0 Pie
+Huawei Mate RS Porcshe Design :Android 8.1
+Huawei nova 3 PAR-LX1:Android 9.0 Pie
+Huawei Nova 3i:Android 8.1
+Huawei P20 Emily-L29:Android 9.0 Pie
+Huawei P20 Pro CLT-L29:Android 9.0 Pie
+Huawei P Smart FIG-LX1:Android 9.0 Pie
+Huawei P20 Lite:Android 9.0 Pie
+Huawei Y5 2018 DRA-LX2:Android 8.1
+Huawei Y5 LITE 2018:Android 8.1
+Huawei Y6 Prime (2018) ATU-L42:Android 8.0 «Oreo»
+Huawei Y9 (2018) FLA-LX2:Android 8.0 «Oreo»
+iLA Silk:Android 8.1
+iLA X:Android 7.0 «Nougat»
+Ioutdoor X:Android 8.1
+Irbis SP401:Android 7.0 «Nougat»
+Jinga Joy:Android 7.0 «Nougat»
+Jinga Joy Pro:Android 7.0 «Nougat»
+Jinga Optim:Android 7.0 «Nougat»
+Jinga Pass Plus:Android 8.1
+Jinga Start:Android 7.0 «Nougat»
+Jinga Start LTE:Android 8.1
+Jinga Win PRO:Android 8.1
+Koolnee Rainbow:Android 8.1
+Kyocera DuraForce PRO 2:Android 8.1
+Leagoo M11:Android 8.1
+Leagoo M9:Android 7.0 «Nougat»
+Leagoo Power2:Android 8.1
+Leagoo T8s:Android 8.1
+Leagoo XRover:Android 8.1
+Lenovo K5 Note (2018):Android 8.1
+Lenovo K5 Pro:Android 8.1
+Lenovo S5:Android 8.0 «Oreo»
+Lenovo S5 Pro:Android 8.1
+Lenovo Z5:Android 9.0 Pie
+Lenovo Z5 Pro GT :Android 10.0 Q
+Lenovo Z5 Pro GT :Android 10.0 Q
+Lenovo Z5s L78071:Android 10.0 Q
+LG G7 ThinQ:Android 10.0 Q
+LG G7 fit:Android 9.0 Pie
+LG G7 One:Android 10.0 Q
+LG K10 (2018):Android 7.1 «Nougat»
+LG K10α (2018):Android 7.1 «Nougat»
+LG K10 (2018) Pro:Android 7.1 «Nougat»
+LG K9 (2018):Android 7.1 «Nougat»
+LG Q7:Android 8.1
+LG Q8 (2018):Android 8.1
+LG V30S ThinQ:Android 8.0 «Oreo»
+LG V30S+ ThinQ:Android 8.0 «Oreo»
+LG V35 ThinQ:Android 8.0 «Oreo»
+LG V40:Android 9.0 Pie
+M-Horse Pure 2:Android 7.0 «Nougat»
+M-Horse Pure 3:Android 7.1 «Nougat»
+Meizu 15:Android 7.1 «Nougat»
+Meizu 15 Lite:Android 7.1 «Nougat»
+Meizu 15 Plus:Android 7.0 «Nougat»
+Meizu 16 6/64/128:Android 8.1
+Meizu 16th 6/64:Android 8.1
+Meizu 16th Plus 6/128:Android 8.1
+Meizu 16th Plus 8/256:Android 8.1
+Meizu 16th 8/128:Android 8.1
+Meizu C9:Android 8.1
+Meizu C9 Pro:Android 8.1
+Meizu E3:Android 7.1 «Nougat»
+Meizu M6s:Android 7.0 «Nougat»
+Meizu M6t:Android 7.0 «Nougat»
+Meizu M8:Android 8.1
+Meizu M8 Lite:Android 8.1
+Meizu Note 8:Android 8.1
+Meizu M8c:Android 7.1 «Nougat»
+Meizu X8:Android 8.1
+Micromax Canvas 1:Android 7.0 «Nougat»
+Micromax Canvas Juice 4 Q465 :Android 5.1
+Micromax Q454:Android 7.0 «Nougat»
+Motorola Moto E Plus (5nd Gen):Android 8.0 «Oreo»
+Motorola Moto G6:Android 8.0 «Oreo»
+Motorola Moto G6 Plus (2018):Android 9.0 Pie
+Motorola Moto Z3 Play:Android 9.0 Pie
+Motorola One Power:Android 9.0 Pie
+Motorola Moto Z3:Android 9.0 Pie
+Nokia 1 TA-1047, TA-1056:Android 10.0 Q
+Nokia 2.1:Android 10.0 Q
+Nokia 3.1 2/16:Android 10.0 Q
+Nokia 3.1 Plus:Android 10.0 Q
+Nokia 5.1:Android 10.0 Q
+Nokia 5.1 Plus:Android 10.0 Q
+Nokia 6.1 Plus:Android 10.0 Q
+Nokia 6.1  3/32:Android 10.0 Q
+Nokia 6.1  4/64:Android 9.0 Pie
+Nokia 7.1:Android 10.0 Q
+Nokia 7 Plus:Android 10.0 Q
+Nokia 8 Sirocco:Android 9.0 Pie
+Nokia 8110 4G:Mozilla Firefox OS
+Nomi i5014 EVO M4:Android 8.1
+Nomu M6:Android 7.0 «Nougat»
+Nomu S50 Pro:Android 8.1
+OnePlus 6 6GB RAM:Android 10.0 Q
+OnePlus 6 8GB RAM:Android 10.0 Q
+OnePlus 6T 6/128:Android 10.0 Q
+OnePlus 6T McLaren:Android 10.0 Q
+OnePlus 6T 8/128:Android 10.0 Q
+OnePlus 6T 8/256:Android 10.0 Q
+OPPO A3s:Android 8.1
+OPPO A5:Android 8.1
+OPPO A5s:Android 8.1
+OPPO A83:Android 7.1 «Nougat»
+OPPO AX7:Android 8.1
+OPPO F7:Android 9.0 Pie
+OPPO F9:Android 8.1
+OPPO Find X:Android 8.1
+OPPO R15:Android 9.0 Pie
+OPPO R15 Dream Mirror Edition:Android 8.1
+OPPO RX17 Neo:Android 8.1
+OPPO RX17 Pro:Android 8.1
+Oukitel C10:Android 7.0 «Nougat»
+Oukitel C10 Pro:Android 8.0 «Oreo»
+Oukitel C11 Pro:Android 9.0 Pie
+Oukitel C9:Android 7.0 «Nougat»
+Oukitel K10:Android 7.1 «Nougat»
+Oukitel K6:Android 7.1 «Nougat»
+Oukitel U17:Android 7.0 «Nougat»
+Oukitel U18:Android 7.0 «Nougat»
+Oukitel WP5000:Android 7.1 «Nougat»
+Palm PVG100:Android 8.1
+Philips S395:Android 7.0 «Nougat»
+Pixelphone M1:Android 7.0 «Nougat»
+Pixelphone S1:Android 7.0 «Nougat»
+Pocophone F1 6/64:Android 10.0 Q
+Pocophone F1 6/128:Android 10.0 Q
+Poptel P60:Android 8.1
+Poptel P9000 Max:Android 7.0 «Nougat»
+Prestigio Grace P7 LTE:Android 7.0 «Nougat»
+Prestigio Muze B5:Android 7.0 «Nougat»
+Prestigio Muze X5 LTE:Android 7.0 «Nougat»
+Prestigio Wize Q3 PSP3471DUO:Android 7.0 «Nougat»
+Razer Phone 2:Android 9.0 Pie
+Red Hydrogen One:Android 8.1
+S-TELL M578:Android 7.0 «Nougat»
+S-TELL M630:Android 8.1
+Samsung Galaxy A6 SM-A600FZ:Android 8.0 «Oreo»
+Samsung Galaxy A6+ SM-A605F:Android 8.0 «Oreo»
+Samsung Galaxy A7 (2018) SM-A750FN:Android 10.0 Q
+Samsung Galaxy A8 (2018):Android 9.0 Pie
+Samsung Galaxy A9 (2018):Android 9.0 Pie
+Samsung Galaxy J2 (2018) J250F/DS:Android 7.1 «Nougat»
+Samsung Galaxy J2 Core 2018  SM-J260F/DS:Android 8.1
+Samsung Galaxy J4+ SM-J415FN:Android 9.0 Pie
+Samsung Galaxy J6 (2018) SM-J600F/DS:Android 10.0 Q
+Samsung Galaxy J6+ SM-J610FN:Android 8.1
+Samsung Galaxy J8  SM-J810F:Android 8.0 «Oreo»
+Samsung Galaxy Note9 Exynos:Android 10.0 Q
+Samsung Galaxy Note9 Snapdragon:Android 10.0 Q
+Samsung Galaxy S9 Exynos:Android 10.0 Q
+Samsung Galaxy S9 Plus Snapdragon:Android 9.0 Pie
+Samsung Galaxy S9 Plus Exynos:Android 9.0 Pie
+Samsung Galaxy S9 Snapdragon:Android 10.0 Q
+Samsung Galaxy  J4 (2018) SM-J400F:Android 9.0 Pie
+Santin N1:Android 7.1 «Nougat»
+Santin N1 MAX:Android 7.1 «Nougat»
+Senseit A150:Android 7.0 «Nougat»
+Senseit N151:Android 7.0 «Nougat»
+Senseit R500:Android 7.0 «Nougat»
+Sharp AQUOS S3:Android 9.0 Pie
+Sharp Aquos S3 mini:Android 7.1 «Nougat»
+Sharp Z2:Android 6.0 «Marshmallow»
+Smartisan Nut 3:Android 7.1 «Nougat»
+Smartisan R1 6/128:Android 8.1
+Sony Xperia L2:Android 7.1 «Nougat»
+Sony Xperia XA2 H3113:Android 9.0 Pie
+Sony Xperia XA2 Plus:Android 9.0 Pie
+Sony Xperia XA2 Ultra Н4213:Android 9.0 Pie
+Sony Xperia XZ2 Premium:Android 9.0 Pie
+Sony Xperia XZ3:Android 9.0 Pie
+Sony Xperia XZ2:Android 10.0 Q
+Sony Xperia XZ2 Compact:Android 10.0 Q
+TECNO Camon 11:Android 8.1
+TECNO Camon CM:Android 7.0 «Nougat»
+TECNO F4 Pro POP 1s Pro:Android 8.1
+teXet teXet TM-5073:Android 7.1 «Nougat»
+teXet TM-5071:Android 7.0 «Nougat»
+teXet TM-5073:Android 7.0 «Nougat»
+teXet TM-5581:Android 7.0 «Nougat»
+TP-LINK Neffos C5A:Android 7.0 «Nougat»
+TP-LINK Neffos C7:Android 8.1
+TP-LINK Neffos C9:Android 8.1
+TP-LINK Neffos C9 Max:Android 8.1
+TP-LINK Neffos C9A:Android 8.1
+TP-LINK Neffos N1:Android 7.1 «Nougat»
+TP-LINK Neffos X9:Android 8.1
+TurboPad Turbo X Dream 4G:Android 8.1
+TurboPad Turbo X5 Black:Android 6.0 «Marshmallow»
+TurboPhone X5 Black 4G:Android 8.1
+UleFone Armor 3:Android 8.1
+UleFone Armor 3W:Android 9.0 Pie
+UleFone Armor 5:Android 8.1
+UleFone Armor 6:Android 8.1
+UleFone Armor 6E:Android 9.0 Pie
+UleFone Armor X:Android 8.1
+UleFone Mix S:Android 7.0 «Nougat»
+UleFone Power 3S:Android 7.1 «Nougat»
+UleFone Power 5:Android 8.1
+UMIDIGI A1 Pro:Android 8.1
+UMIDIGI A3:Android 8.1
+UMIDIGI F1:Android 9.0 Pie
+UMIDIGI One:Android 8.1
+UMIDIGI One Max:Android 8.1
+UMIDIGI One Pro:Android 8.1
+UMIDIGI One Pro:Android 8.1
+UMIDIGI Z2 Pro:Android 8.1
+Unihertz Atom:Android 9.0 Pie
+Vernee M6:Android 7.0 «Nougat»
+Vertex Impress Aqua:Android 8.1
+Vertex Impress Cube:Android 8.1
+Vertex Impress Eagle 4G:Android 7.0 «Nougat»
+Vertex Impress Game:Android 7.0 «Nougat»
+Vertex Impress Nero:Android 7.0 «Nougat»
+Vertex Impress Pear:Android 7.0 «Nougat»
+Vertex Impress Play:Android 7.0 «Nougat»
+Vertex Impress Zeon 3G:Android 8.1
+vivo NEX Dual Display Edition:Android 9.0 Pie
+vivo V11:Android 9.0 Pie
+vivo V11i:Android 8.1
+vivo V9:Android 9.0 Pie
+vivo X20 Plus UD:Android 7.1 «Nougat»
+vivo X21:Android 9.0 Pie
+vivo X21 UD:Android 9.0 Pie
+vivo Y81:Android 8.1
+vivo Y95:Android 8.1
+VKworld VK7000:Android 8.0 «Oreo»
+Wieppo S8:Android 7.0 «Nougat»
+Wigor V2:Android 7.0 «Nougat»
+Black Shark 1 6/64:Android 8.0 «Oreo»
+Black Shark 1 8/128:Android 8.0 «Oreo»
+Xiaomi Mi 8 Lite 4/64:Android 10.0 Q
+Xiaomi Mi 8 Lite 6/128:Android 10.0 Q
+Xiaomi Mi A2 6/128:Android 10.0 Q
+Xiaomi Mi A2 Lite 3/32:Android 10.0 Q
+Xiaomi Mi A2 Lite 4/32:Android 10.0 Q
+Xiaomi Mi A2 Lite 4/64:Android 10.0 Q
+Xiaomi Mi A2 4/64:Android 10.0 Q
+Xiaomi Mi Max 3 4/64:Android 10.0 Q
+Xiaomi Mi Max 3 6/128:Android 10.0 Q
+Xiaomi Mi Mix 2S 6/128:Android 10.0 Q
+Xiaomi Mi Mix 2S 6/64:Android 10.0 Q
+Xiaomi Mi Mix 2S 8/256:Android 10.0 Q
+Xiaomi Mi Mix 3 6/128:Android 10.0 Q
+Xiaomi Mi Mix 3 5G:Android 10.0 Q
+Xiaomi Mi Mix 3 8/256:Android 10.0 Q
+Xiaomi Mi Play:Android 8.1
+Xiaomi Mi 6X 4/64:Android 9.0 Pie
+Xiaomi Mi 6X 6/128:Android 9.0 Pie
+Xiaomi Mi 8:Android 10.0 Q
+Xiaomi Mi 8 Pro:Android 10.0 Q
+Xiaomi Mi 8 SE 4/64:Android 9.0 Pie
+Xiaomi Mi 8 SE 6/64:Android 10.0 Q
+Xiaomi Redmi 6 3/32:Android 9.0 Pie
+Xiaomi Redmi 6 Pro 3/32:Android 9.0 Pie
+Xiaomi Redmi 6 Pro 4/32:Android 9.0 Pie
+Xiaomi Redmi 6 Pro 4/64:Android 9.0 Pie
+Xiaomi Redmi 6 4/64:Android 9.0 Pie
+Xiaomi Redmi 6A:Android 9.0 Pie
+Xiaomi Redmi Note 5 3/32:Android 9.0 Pie
+Xiaomi Redmi Note 5 Pro:Android 9.0 Pie
+Xiaomi Redmi Note 5 4/64:Android 9.0 Pie
+Xiaomi Redmi Note 6 Pro 3/32:Android 10.0 Q
+Xiaomi Redmi Note 6 Pro 4/64:Android 10.0 Q
+Xiaomi Redmi S2:Android 9.0 Pie
+Яндекс Телефон:Android 9.0 Pie
+ZTE Axon 9 Pro:Android 9.0 Pie
+ZTE BLADE A522:Android 7.1 «Nougat»
+ZTE Blade A530:Android 8.1
+ZTE Tempo Go:Android 8.1
+ZTE Blade V9 3/32:Android 8.1
+ZTE Blade V9 Vita:Android 8.1
+ZTE Blade V9 4/64:Android 8.1
+ZTE Nubia V18:Android 7.1 «Nougat»
+ZTE Nubia X:Android 9.0 Pie
+ZTE Nubia Z18 Mini:Android 8.1
+4Good Light A103:Android 6.0 «Marshmallow»
+4Good Light A104:Android 7.0 «Nougat»
+AG Mobile AG #HASHTAG:Android 5.1
+AGM A8:Android 7.1 «Nougat»
+AGM X2:Android 7.1 «Nougat»
+Alcatel A3 5046Y/D/J:Android 6.0 «Marshmallow»
+Alcatel A3 XL:Android 7.0 «Nougat»
+Alcatel A5 LED:Android 6.0 «Marshmallow»
+Alcatel A7:Android 7.0 «Nougat»
+Alcatel IDOL 4 Pro:Windows 10 Mobile
+Alcatel Flash 2017:Android 6.0 «Marshmallow»
+Alcatel Idol 5 6058D:Android 7.0 «Nougat»
+Alcatel Pixi 4 Plus Power:Android 6.0 «Marshmallow»
+Alcatel U5:Android 6.0 «Marshmallow»
+AllCall Atom:Android 7.0 «Nougat»
+AllCall Bro:Android 7.0 «Nougat»
+AllCall Madrid:Android 7.0 «Nougat»
+AllCall Rio:Android 7.0 «Nougat»
+Apple iPhone 8:iOS 14
+Apple iPhone 8 Plus:iOS 14
+Apple iPhone X:iOS 14
+Archos 50 Graphite:Android 7.0 «Nougat»
+Archos 50f Neon:Android 7.0 «Nougat»
+Archos 55 Graphite:Android 7.0 «Nougat»
+Archos 55b Platinum:Android 6.0 «Marshmallow»
+Ark Benefit Note 1:Android 7.0 «Nougat»
+Ark Benefit S504:Android 5.1
+Artel P5:Android 7.1 «Nougat»
+Assistant AS-501:Android 7.0 «Nougat»
+Asus Pegasus 3s:Android 7.0 «Nougat»
+Asus Pegasus 4S:Android 7.1 «Nougat»
+Asus ZenFone 3 AR ZS571KL:Android 7.0 «Nougat»
+Asus ZenFone 3 Zoom ZE553KL:Android 7.0 «Nougat»
+Asus ZenFone 4 Max ZC520KL SD425:Android 9.0 Pie
+Asus ZenFone 4 Max ZC520KL SD430:Android 9.0 Pie
+Asus ZenFone 4 Max ZC554KL:Android 8.1
+Asus Asus ZenFone 4 Pro (ZS551KL):Android 8.0 «Oreo»
+Asus ZenFone 4 Selfie Pro (ZD552KL) 3/64:Android 7.0 «Nougat»
+Asus ZenFone 4 Selfie Pro (ZD552KL) 4/64:Android 7.0 «Nougat»
+Asus ZenFone 4 Selfie (ZD553KL):Android 7.0 «Nougat»
+Asus ZenFone 4 (ZE554KL) 4/64:Android 7.1 «Nougat»
+Asus ZenFone 4 (ZE554KL) 6/64:Android 7.1 «Nougat»
+Asus Zenfone Live ZB501KL:Android 6.0 «Marshmallow»
+Asus Zenfone Max Plus (M1) ZB570TL:Android 7.0 «Nougat»
+BlackBerry Aurora:Android 7.0 «Nougat»
+BlackBerry KEYone:Android 8.1
+BlackBerry Motion:Android 7.1 «Nougat»
+Blackview A7:Android 7.0 «Nougat»
+Blackview A7 Pro:Android 7.0 «Nougat»
+Blackview BV4000 Pro:Android 7.0 «Nougat»
+Blackview BV7000 Pro:Android 7.0 «Nougat»
+Blackview BV8000 Pro:Android 7.0 «Nougat»
+Blackview P2 Lite:Android 6.0 «Marshmallow»
+Blackview P6000:Android 7.1 «Nougat»
+Blackview R6 Lite:Android 7.0 «Nougat»
+Blackview S8:Android 7.0 «Nougat»
+BLU Life One X2 Mini:Android 6.0 «Marshmallow»
+BLU Vivo 5R:Android 6.0 «Marshmallow»
+Bluboo D1:Android 7.0 «Nougat»
+Bluboo S1:Android 7.0 «Nougat»
+Bluboo S8:Android 7.0 «Nougat»
+Bluboo S8 Plus:Android 7.0 «Nougat»
+BQ-mobile BQ-5033 Shark:Android 7.0 «Nougat»
+BQ-mobile BQ-5044 Strike LTE:Android 7.0 «Nougat»
+BQ-mobile BQ-5057 Strike 2:Android 7.0 «Nougat»
+BQ-mobile BQ-5059 Strike Power:Android 7.0 «Nougat»
+BQ-mobile BQ-5201 Space:Android 7.0 «Nougat»
+BQ-mobile BQ-5202 Space Lite:Android 7.0 «Nougat»
+BQ-mobile BQ-5203 Vision :Android 7.0 «Nougat»
+BQ-mobile BQ-5504 Strike Selfie Max:Android 7.0 «Nougat»
+BQ-mobile BQ-5700 Space X:Android 7.1 «Nougat»
+BQ-mobile BQ-6000L Aurora:Android 7.1 «Nougat»
+BQ Aquaris X 3/32:Android 8.1
+BQ Aquaris X Pro 3/32:Android 8.1
+BQ Aquaris X Pro 4/64/128:Android 8.1
+BQ Aquaris X 4/64:Android 8.1
+BQ-mobile BQ-5522 Next:Android 7.0 «Nougat»
+BQ-mobile BQ-5000L Trend:Android 7.0 «Nougat»
+BQ-mobile BQ-4026 UP!:Android 6.0 «Marshmallow»
+BQ-mobile BQ-4072 Strike Mini:Android 7.0 «Nougat»
+BQ-mobile BQ-4500L Fox LTE:Android 7.0 «Nougat»
+BQ-mobile BQ-4526 Fox:Android 7.0 «Nougat»
+BQ-mobile BQ-5037 Strike Power 4G:Android 7.1 «Nougat»
+BQ-mobile BQ-5503 Nice 2:Android 7.0 «Nougat»
+BQ-mobile BQ-5510 Strike Power Max 4G:Android 7.0 «Nougat»
+Cagabi One:Android 6.0 «Marshmallow»
+Coolpad Conjr:Android 7.0 «Nougat»
+Coolpad Cool Play 6:Android 7.1 «Nougat»
+Cubot H3:Android 7.0 «Nougat»
+Cubot King Kong:Android 7.0 «Nougat»
+Cubot Magic:Android 7.0 «Nougat»
+Cubot Note Plus:Android 7.0 «Nougat»
+Cubot R9:Android 7.0 «Nougat»
+Cubot Rainbow 2:Android 7.0 «Nougat»
+DEXP Ixion ES750 Connect:Android 6.0 «Marshmallow»
+DEXP Ixion GL255:Android 7.0 «Nougat»
+DEXP Ixion M340:Android 7.0 «Nougat»
+DEXP Ixion M355 Mercury:Android 7.0 «Nougat»
+DEXP Ixion M545:Android 7.0 «Nougat»
+DEXP Ixion M850:Android 7.0 «Nougat»
+DEXP Ixion ML245 Electron:Android 7.0 «Nougat»
+DEXP Ixion ML350 Force PRO:Android 7.0 «Nougat»
+DEXP Ixion MS550:Android 7.0 «Nougat»
+DEXP Ixion P245 Arctic:Android 5.1
+DEXP Ixion X150:Android 6.0 «Marshmallow»
+DEXP Ixion Z150:Android 7.0 «Nougat»
+Digma CITI ATL 4G:Android 7.0 «Nougat»
+Digma Linx Argo 3G:Android 8.1
+Digma VOX G501 4G:Android 7.0 «Nougat»
+Digma Vox S507 4G:Android 6.0 «Marshmallow»
+Digma Vox S508 3G:Android 7.0 «Nougat»
+Doogee BL12000:Android 7.0 «Nougat»
+Doogee BL12000 Pro:Android 7.0 «Nougat»
+Doogee BL5000:Android 7.0 «Nougat»
+Doogee BL7000:Android 7.0 «Nougat»
+Doogee Mix 4/64:Android 7.0 «Nougat»
+Doogee Mix 2:Android 7.0 «Nougat»
+Doogee Mix Lite:Android 7.0 «Nougat»
+Doogee Mix 6/64:Android 7.0 «Nougat»
+Doogee S60:Android 7.0 «Nougat»
+Doogee Shoot 2 1/8:Android 7.0 «Nougat»
+Doogee Shoot 2 2/16:Android 7.0 «Nougat»
+Doogee X10:Android 6.0 «Marshmallow»
+Doogee X20:Android 7.0 «Nougat»
+Doogee X30:Android 7.0 «Nougat»
+Elephone C1 Max:Android 7.0 «Nougat»
+Elephone P8:Android 7.0 «Nougat»
+Elephone P8 mini:Android 7.0 «Nougat»
+Elephone S8:Android 7.1 «Nougat»
+Ergo А502 Aurum:Android 6.0 «Marshmallow»
+Ergo F501 Magic:Android 7.0 «Nougat»
+Ergo Ergo F502 Platinum:Android 6.0 «Marshmallow»
+Essential Phone:Android 10.0 Q
+Finepower C1:Android 6.0 «Marshmallow»
+Fly Cirrus 12:Android 6.0 «Marshmallow»
+Fly Cirrus 13:Android 7.0 «Nougat»
+Fly Cirrus 16 FS523:Android 7.0 «Nougat»
+Fly FS458 Stratus 7:Android 6.0 «Marshmallow»
+Fly Power Plus 2 FS526 :Android 7.0 «Nougat»
+Fly Memory Plus  FS528:Android 7.0 «Nougat»
+Fly Nimbus 15 FS457:Android 7.0 «Nougat»
+Fly Nimbus 16 FS459:Android 7.0 «Nougat»
+Flycat Optimum 5004:Android 7.0 «Nougat»
+Geotel G1:Android 7.0 «Nougat»
+Geotel Note:Android 6.0 «Marshmallow»
+Gionee A1:Android 7.0 «Nougat»
+Gionee A1 Plus:Android 7.0 «Nougat»
+Gionee F6:Android 7.1 «Nougat»
+Gionee M6S Plus:Android 6.0 «Marshmallow»
+Gionee S10:Android 7.0 «Nougat»
+Gionee X1s:Android 7.0 «Nougat»
+GOME K1:Android 6.0 «Marshmallow»
+GOME U7:Android 7.1 «Nougat»
+Google Pixel 2:Android 10.0 Q
+Google Pixel 2 XL:Android 11
+Gretel A6:Android 6.0 «Marshmallow»
+Gretel A7:Android 6.0 «Marshmallow»
+Gretel A9:Android 6.0 «Marshmallow»
+Gretel GT6000:Android 7.0 «Nougat»
+Gretel S55:Android 7.0 «Nougat»
+Guophone V88:Android 5.1
+Hafury Umax:Android 7.0 «Nougat»
+Haier A40:Android 5.1
+Haier G7:Android 7.0 «Nougat»
+Haier G7S:Android 7.0 «Nougat»
+Highscreen Easy Power:Android 7.0 «Nougat»
+Highscreen Easy Power Pro:Android 7.0 «Nougat»
+Highscreen Easy XL:Android 6.0 «Marshmallow»
+Highscreen Easy XL Pro:Android 6.0 «Marshmallow»
+Highscreen Fest:Android 7.0 «Nougat»
+Highscreen Fest Pro:Android 7.0 «Nougat»
+Highscreen Fest XL:Android 7.0 «Nougat»
+Highscreen Fest XL Pro:Android 7.0 «Nougat»
+Hisense A2:Android 6.0 «Marshmallow»
+HOFFMANN X-MAX:Android 7.0 «Nougat»
+HomTom HT20 Pro:Android 6.0 «Marshmallow»
+HomTom HT30:Android 6.0 «Marshmallow»
+HomTom HT37:Android 7.0 «Nougat»
+HomTom HT50:Android 7.0 «Nougat»
+HomTom HT12:Android 6.0 «Marshmallow»
+HomTom S16:Android 7.0 «Nougat»
+HomTom S7:Android 7.0 «Nougat»
+HomTom S8:Android 7.0 «Nougat»
+HomTom S9 Plus:Android 7.0 «Nougat»
+Honor 6A:Android 7.0 «Nougat»
+Honor 6C DIG-L21HN:Android 6.0 «Marshmallow»
+Honor 6C Pro:Android 7.0 «Nougat»
+Honor 7X:Android 9.0 Pie
+Honor 8 Lite PRA-AL00:Android 8.0 «Oreo»
+Honor 8 Lite PRA-TL10:Android 8.0 «Oreo»
+Honor 9:Android 9.0 Pie
+Honor 9 Premium:Android 8.0 «Oreo»
+Honor V10 4/64:Android 8.0 «Oreo»
+Honor V10 6/128:Android 8.0 «Oreo»
+Honor 8 Pro:Android 9.0 Pie
+ZTE Axon 20 5G:Android 10

@@ -1,0 +1,12 @@
+#!/bin/bash
+
+
+#URL=node-ru-115.astroproxy.com:10207/api/changeIP?apiToken=0975c84c31a918ed
+#URL=node-ru-119.astroproxy.com:10121/api/changeIP?apiToken=0975c84c31a918ed
+#curl $URL
+
+cd ~/go/src/tbot/cmd/herder/herd
+./herder make -c bot.toml -p $1
+
+cd ~/go/src/tbot/cmd/bot
+./bot -p ../herder/herd/profiles/$1

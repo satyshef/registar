@@ -1,0 +1,8 @@
+#!/bin/bash
+
+find $1 -name \bot.toml -type f -delete
+find $1 -name \client.log -type f -delete
+find $1 -name \lock -type f -delete
+find $1 -name \event -type d -exec rm -rf {} \;
+find $1 -name \files -type d -exec rm -rf {} \;
+

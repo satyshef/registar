@@ -1,0 +1,99 @@
+[app]
+  id = "./data/app/api_id.txt"  
+  sys_version = "./data/app/sys_version.txt"
+  app_version = "./data/app/app_version.txt"
+  lang_pack = "./data/app/lang.txt"
+  device_model = "./data/app/device.txt"
+  auth_pass = "Poli6575"
+  hint_pass = "P5"
+  first_name = "./data/app/name_rus.txt"
+  photo = ""
+  show_phone_mode = 0
+  mode = 2
+  banned_dir = "banned"
+  logout_dir = "logout"
+  foul_dir = "spam"
+  double_dir = "double"
+
+
+[limits]
+  [limits.error]
+
+    [[limits.error.importContacts]]
+      Interval = 86400
+      Limit = 1
+
+  [limits.request]
+
+    [[limits.request.addChatMember]]
+      Interval = 86400
+      Limit = 30
+
+    [[limits.request.getSupergroupMembers]]
+      Interval = 86400
+      Limit = 50
+
+    [[limits.request.importContacts]]
+      Interval = 1
+      Limit = 1
+
+    [[limits.request.importContacts]]
+      Interval = 86400
+      Limit = 30
+
+    [[limits.request.searchChatMembers]]
+      Interval = 86400
+      Limit = 50
+
+    [[limits.request.searchPublicChats]]
+      Interval = 5
+      Limit = 1
+
+    [[limits.request.searchPublicChats]]
+      Interval = 86400
+      Limit = 100
+
+    [[limits.request.sendMessage]]
+      Interval = 1
+      Limit = 1
+
+    [[limits.request.sendMessage]]
+      Interval = 86400
+      Limit = 40
+  [limits.response]
+  
+    [[limits.response.chatMemberLeft]]
+      Interval = 3600
+      Limit = 1
+
+    [[limits.response.sendMessageByPhone]]
+      Interval = 3600
+      Limit = 2
+
+    [[limits.response.sendMessageByPhone]]
+      Interval = 86400
+      Limit = 20
+      
+[humanity]
+  enable = false
+  [humanity.friend]
+    sendmin = 40
+    sendmax = 60
+
+    [[humanity.friend.roomssss]]
+      name = "doobovsem"
+      id = 0
+
+[log]
+  level = 6
+  file = "/tmp/tbot.log"
+
+[proxy]
+# UA
+  host = "node-uk-7.astroproxy.com"
+  port = 10384
+  user = "polihoster8914"
+  pass = "3a0bde"
+  type = "socks5"
+  #если false удаляются все прокси из БД
+  enable = true

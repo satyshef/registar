@@ -1,0 +1,38 @@
+package main
+
+import (
+	"tbot/pkg/tdlib"
+)
+
+// обработчик событий Телеграм клиента
+func eventCatcher(eventType string, update interface{}) *tdlib.Error {
+
+	switch eventType {
+	case tdlib.EventTypeRequest:
+		return requestHandler(update.(tdlib.UpdateMsg))
+	case tdlib.EventTypeResponse:
+		return responseHandler(update.(tdlib.UpdateMsg))
+	case tdlib.EventTypeError:
+		//return errorHandler(update.(tdlib.Error))
+	}
+
+	return nil
+}
+
+// оброботчик запросов к серверу Телеграм
+func requestHandler(request tdlib.UpdateMsg) *tdlib.Error {
+	//bot.Logger.Errorf("New Request %#v\n\n", request.Data)
+	return nil
+}
+
+//Обработчик ответов на запросы Telegram client (не используется)
+func responseHandler(response tdlib.UpdateMsg) *tdlib.Error {
+	//bot.Logger.Errorf("Response %#v\n\n", response.Data)
+	return nil
+}
+
+//Обработчик ошибок Telegram client. Пересмотреть логику функции
+func errorHandler(e tdlib.Error) *tdlib.Error {
+	//fmt.Printf("ERROR HANDLER :  %#v\n\n", e)
+	return nil
+}

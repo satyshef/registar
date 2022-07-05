@@ -1,0 +1,4 @@
+api_key = "0f0e1da8d76bd061eb4ac70a966d6ac0"
+id = "tg"
+# 0 - РФ; 10 - Вьетнам
+country = "10"
