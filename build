@@ -16,4 +16,4 @@ fi
 
 #docker build --build-arg APP_NAME=registar  --build-arg CONFIG_DIR=data --build-arg APP_DIR=/app -t $IMAGE_NAME .
 docker build -t $IMAGE_NAME .
-#docker image prune --filter label=stage=builder -f
+docker image prune --filter label=stage=builder -f

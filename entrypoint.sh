@@ -8,12 +8,12 @@ if [ -z "${CONFIG}" ];then
 fi
 
 if [ ! -z "${NUMBER}" ];then
-    ./registar -c $CONFIG -n $NUMBER
+    ./registar -a $COUNT -c $CONFIG -n $NUMBER
     exit 0
 fi
 
 if [ ! -z "${SERVICE}" ];then
-    registar -c $CONFIG -s $SERVICE
+    ./registar -a $COUNT -c $CONFIG -s $SERVICE
     exit 0
 fi
 
