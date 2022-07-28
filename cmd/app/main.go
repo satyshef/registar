@@ -170,7 +170,6 @@ func autoRegistration() {
 
 	for successCount < accCount {
 		runWaiteCode = false
-		fmt.Println("#", successCount+1)
 		phoneNumber, orderID, err = getNumber()
 		/*
 			fmt.Printf("%s - %s ", phoneNumber, orderID)
@@ -188,6 +187,7 @@ func autoRegistration() {
 
 			time.Sleep(time.Second * 3)
 		} else {
+			fmt.Println("#", successCount+1)
 			err := startReg(phoneNumber)
 			if err != nil {
 				fmt.Println("Registar Error : ", err)
