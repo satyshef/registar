@@ -13,9 +13,10 @@ import (
 
 	"time"
 
+	tdc "github.com/satyshef/go-tdlib/client"
+	"github.com/satyshef/go-tdlib/tdlib"
 	"github.com/satyshef/tdbot/config"
 	"github.com/satyshef/tdbot/profile"
-	"github.com/satyshef/tdlib"
 
 	"github.com/valyala/fasthttp"
 )
@@ -254,12 +255,12 @@ func startReg(phone string) error {
 			// реакции на ошибки во время запуска бота
 			switch e.Code {
 			//Если таймаут делаем еще одну попытку
-			case tdlib.ErrorCodeTimeout:
+			case tdc.ErrorCodeTimeout:
 				bot.Logger.Errorf("TIMEOUT : %#v\n", e)
 				bot.Stop()
 				time.Sleep(time.Second * 1)
 				continue
-			case tdlib.ErrorCodeStopped:
+			case tdc.ErrorCodeStopped:
 				bot.Logger.Errorf("CLIENT ERROR : %#v\n", e)
 				time.Sleep(time.Second * 1)
 				continue
@@ -268,10 +269,10 @@ func startReg(phone string) error {
 				runProcess = false
 				goto Exit
 			case profile.ErrorCodeLimitExceeded,
-				tdlib.ErrorCodePhoneBanned,
-				tdlib.ErrorCodePhoneInvalid,
-				tdlib.ErrorCodeAborted,
-				tdlib.ErrorCodeManyRequests:
+				tdc.ErrorCodePhoneBanned,
+				tdc.ErrorCodePhoneInvalid,
+				tdc.ErrorCodeAborted,
+				tdc.ErrorCodeManyRequests:
 				fmt.Println("CANCEL : ", e)
 				cancelReg(orderID)
 				goto Exit
