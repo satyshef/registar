@@ -20,6 +20,7 @@ WORKDIR ${APP_DIR}
 
 COPY go.mod go.sum ./
 RUN apk add git && \
+    go get github.com/klauspost/compress && \
     apk add make && \
     go mod download && \
     go mod verify
