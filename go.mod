@@ -1,6 +1,6 @@
 module github.com/satyshef/registar
 
-go 1.18
+go 1.17
 
 //replace github.com/satyshef/tdlib => ../tdlib
 
