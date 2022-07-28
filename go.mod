@@ -12,7 +12,7 @@ require (
 	github.com/BurntSushi/toml v1.1.0
 	github.com/satyshef/go-tdlib v0.3.12
 	github.com/satyshef/tdbot v0.3.0
-	github.com/valyala/fasthttp v1.37.0
+	github.com/valyala/fasthttp v1.38.0
 )
 
 require (
