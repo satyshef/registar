@@ -176,7 +176,10 @@ func autoRegistration() {
 			os.Exit(1)
 		*/
 		if err != nil {
-			fmt.Println("Get number : ", err)
+			if err.Error() != "NO_NUMBERS" {
+				fmt.Println("Get number : ", err)
+			}
+
 			if err.Error() == "NO_BALANCE" {
 				//exit from program
 				return
