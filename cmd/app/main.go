@@ -9,6 +9,7 @@ import (
 	"github.com/satyshef/registar/internal/sms365"
 	"github.com/satyshef/registar/internal/sms3t"
 	"github.com/satyshef/registar/internal/sms_acktiwator"
+	"github.com/satyshef/registar/internal/smshub"
 	"github.com/satyshef/tdbot"
 
 	"time"
@@ -66,6 +67,8 @@ func main() {
 	switch serviceName {
 	case "365sms":
 		smsServ = sms365.New(serviceDir + "/365sms.toml")
+	case "smshub":
+		smsServ = smshub.New(serviceDir + "/smshub.toml")
 	case "sms3t":
 		smsServ = sms3t.New(serviceDir + "/sms3t.toml")
 	case "5sim":
@@ -168,6 +171,7 @@ func manualRegistration() {
 func autoRegistration() {
 	var err error
 
+	fmt.Println("Gets number...")
 	for successCount < accCount {
 		runWaiteCode = false
 		phoneNumber, orderID, err = getNumber()
@@ -389,6 +393,7 @@ func startWaiteCode() {
 func getNumber() (string, string, error) {
 	urlGetNumber := smsServ.URLGetNumber()
 	response := sendGet(urlGetNumber, 10000)
+	//fmt.Println(response)
 	//response := "ACCESS_NUMBER:234242:79663345925"
 	//response := fmt.Sprintf("ACCESS_NUMBER:234242:%d", time.Now().Unix())
 	return smsServ.GetNumber(response)

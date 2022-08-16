@@ -6,7 +6,7 @@
   device_model = "./data/app/device.txt"
   auth_pass = "Poli6575"
   hint_pass = "P5"
-  first_name = "./data/app/name_rus.txt"
+  first_name = "./data/app/names.txt"
   photo = ""
   show_phone_mode = 0
   mode = 2

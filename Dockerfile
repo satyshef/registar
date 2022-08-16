@@ -21,7 +21,7 @@ WORKDIR ${APP_DIR}
 COPY go.mod go.sum ./
 RUN apk add git && \
     apk add make && \
-    go mod tidy && \
+    go mod download && \
     go mod verify
 COPY . .
 RUN  go mod tidy && make -e APP_PATH=${APP_NAME}
