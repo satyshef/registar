@@ -1,0 +1,4 @@
+api_key = "f6e680ffef6f44ecb7eda95acac9f80d"
+id = "tg"
+# 0 - РФ; 16 - Англия; 1 - Ukraine
+country = "16"

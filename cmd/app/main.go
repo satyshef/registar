@@ -10,6 +10,7 @@ import (
 	"github.com/satyshef/registar/internal/sms3t"
 	"github.com/satyshef/registar/internal/sms_acktiwator"
 	"github.com/satyshef/registar/internal/smshub"
+	"github.com/satyshef/registar/internal/vak"
 	"github.com/satyshef/tdbot"
 
 	"time"
@@ -69,6 +70,8 @@ func main() {
 		smsServ = sms365.New(serviceDir + "/365sms.toml")
 	case "smshub":
 		smsServ = smshub.New(serviceDir + "/smshub.toml")
+	case "vak":
+		smsServ = vak.New(serviceDir + "/vak.toml")
 	case "sms3t":
 		smsServ = sms3t.New(serviceDir + "/sms3t.toml")
 	case "5sim":
