@@ -27,7 +27,7 @@
 
     [[limits.request.addChatMember]]
       Interval = 86400
-      Limit = 30
+      Limit = 20
 
     [[limits.request.getSupergroupMembers]]
       Interval = 86400
@@ -89,9 +89,9 @@
   file = "/tmp/tbot.log"
 
 [proxy]
-  host = "node-ru-279.astroproxy.com"
-  port = 10116
-  user = "polihoster8914"
-  pass = "3a0bde"
+  host = "176.9.154.69"
+  port = 48884
+  user = "bLPEffkrXA"
+  pass = "tUNh6hiZlA"
   type = "socks5"
   enable = true

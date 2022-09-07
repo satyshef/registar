@@ -9,10 +9,10 @@ go 1.18
 //replace github.com/satyshef/tdbot/chat => ../../telegram/tdbot/chat
 
 require (
-	github.com/BurntSushi/toml v1.1.0
-	github.com/satyshef/go-tdlib v0.3.12
-	github.com/satyshef/tdbot v0.3.0
-	github.com/valyala/fasthttp v1.38.0
+	github.com/BurntSushi/toml v1.2.0
+	github.com/satyshef/go-tdlib v0.3.13
+	github.com/satyshef/tdbot v0.3.1
+	github.com/valyala/fasthttp v1.40.0
 )
 
 require (

@@ -89,11 +89,9 @@
   file = "/tmp/tbot.log"
 
 [proxy]
-# UA
-  host = "node-uk-7.astroproxy.com"
-  port = 10384
-  user = "polihoster8914"
-  pass = "3a0bde"
+  host = "51.68.200.13"
+  port = 11356
+  user = "poli1619"
+  pass = "Trty675675DFGDfdjhjk"
   type = "socks5"
-  #если false удаляются все прокси из БД
   enable = true

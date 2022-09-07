@@ -9,6 +9,7 @@ import (
 	"github.com/satyshef/registar/internal/sms365"
 	"github.com/satyshef/registar/internal/sms3t"
 	"github.com/satyshef/registar/internal/sms_acktiwator"
+	"github.com/satyshef/registar/internal/smsact"
 	"github.com/satyshef/registar/internal/smshub"
 	"github.com/satyshef/registar/internal/vak"
 	"github.com/satyshef/tdbot"
@@ -76,6 +77,8 @@ func main() {
 		smsServ = sms3t.New(serviceDir + "/sms3t.toml")
 	case "5sim":
 		smsServ = sim5.New(serviceDir + "/5sim.toml")
+	case "sms-off":
+		smsServ = smsact.New(serviceDir + "/sms-off.toml")
 	case "sms-acktiwator":
 		smsServ = sms_acktiwator.New(serviceDir + "/sms-acktiwator.toml")
 	default:

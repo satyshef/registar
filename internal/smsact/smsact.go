@@ -1,18 +1,14 @@
-package vak
+package smsact
 
 import (
 	"fmt"
 	"log"
 	"strings"
 
-	"github.com/satyshef/registar/internal/vak/config"
+	"github.com/satyshef/registar/internal/smsact/config"
 )
 
-type Service struct {
-	APIKey  string
-	ID      string
-	Country string
-}
+type Service config.Config
 
 //const API_KEY = "8nHsK3IhRHCHfJQoVVyyRkHZppAveD"
 
@@ -25,21 +21,22 @@ func New(configFile string) *Service {
 		APIKey:  conf.APIKey,
 		ID:      conf.ID,
 		Country: conf.Country,
+		Host:    conf.Host,
 	}
 }
 
 func (s *Service) URLGetNumber() string {
-	return fmt.Sprintf("https://vak-sms.com/stubs/handler_api.php?api_key=%s&action=getNumber&service=%s&country=%s", s.APIKey, s.ID, s.Country)
+	return fmt.Sprintf("https://%s/stubs/handler_api.php?api_key=%s&action=getNumber&service=%s&country=%s", s.Host, s.APIKey, s.ID, s.Country)
 
 }
 
 // послать запрос на смс сервер для отмены активации
 func (s *Service) URLCancelOrder(id string) string {
-	return fmt.Sprintf("https://vak-sms.com/stubs/handler_api.php?api_key=%s&action=setStatus&status=8&id=%s", s.APIKey, id)
+	return fmt.Sprintf("https://%s/stubs/handler_api.php?api_key=%s&action=setStatus&status=8&id=%s", s.Host, s.APIKey, id)
 }
 
 func (s *Service) URLGetStatus(id string) string {
-	return fmt.Sprintf("https://vak-sms.com/stubs/handler_api.php?api_key=%s&action=getStatus&id=%s", s.APIKey, id)
+	return fmt.Sprintf("https://%s/stubs/handler_api.php?api_key=%s&action=getStatus&id=%s", s.Host, s.APIKey, id)
 }
 
 func (s *Service) GetNumber(response string) (string, string, error) {

@@ -1,0 +1,5 @@
+host = "185.26.99.229"
+api_key = "zdm8ladmjljqk3h9t3tgjt6zvsx7pq8o"
+id = "tg"
+# 0 - РФ; 16 - Англия; 1 - Ukraine
+country = "uk"
